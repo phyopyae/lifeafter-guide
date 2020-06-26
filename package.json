@@ -1,6 +1,9 @@
 {
   "name": "lifeafter-food-recipes",
   "version": "0.0.0",
+  "engines": {
+	"node":"12.4.0"
+  },
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
