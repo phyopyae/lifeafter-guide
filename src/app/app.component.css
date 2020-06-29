@@ -70,6 +70,18 @@
 .row {   
       flex-direction: column;
     }
+.header {
+      width: 540px;
+    }
+.navbar {
+      width: 620px;
+    }
+.video {
+      width: 100% !important;
+    }
+.container {
+      width: 100% !important;
+    }
 }
   
 /* Responsive layout - when the screen is less than 400px wide, make the navigation links stack on top of each other instead of next to each other */
@@ -81,7 +93,7 @@
 }
 
 .tg {
-    overflow-x:auto;
+    overflow-x:scroll;
     border-collapse:collapse;
     border-color:#9ABAD9;
     border-spacing:0;
@@ -124,4 +136,31 @@
     font-weight:bold;
     text-align:center;
     vertical-align:top
+}
+
+.video {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 50%;
+  height: 400px;
+  float: left;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  height: 400px;
+  padding: 2px 16px 10px;
+}
+
+.card {
+  flex: 70%;
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
 }

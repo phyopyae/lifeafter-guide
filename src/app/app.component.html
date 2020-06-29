@@ -7,6 +7,7 @@
 <div class="navbar">
   <a href="#" (click)="onGoToFoodRecipes()">Food Recipes</a>
   <a href="#" (click)="onGoToCertificates()">Certificates</a>
+  <a href="#" (click)="onGoToVideoGuide()">Video Guide</a>
 </div>
 
 <div class="row">
@@ -2738,7 +2739,7 @@
         </tbody>
       </table>
       <br>
-      <div>Reference Credit : <a href="http://bit.ly/LAguides" target="_blank">Link</a></div>\
+      <div>Reference Credit : <a href="http://bit.ly/LAguides" target="_blank">Link</a></div>
     </div>
     <div *ngIf="certificates">
       <h2>Certificates</h2>
@@ -3000,6 +3001,47 @@
             </tr>
           </tbody>          
         </table>
+      </div>
+    </div>
+    <div *ngIf="videoguide">
+      <div class="card">
+        <div class="video">
+          <iframe src="https://youtu.be/pmYU8hI6FQE?controls=0" style="overflow:hidden;height:100%;width:100%;"></iframe>
+        </div>
+        <div class="container" style="float: left;font-family: Comic Sans MS, sans-serif;width: 40%;margin-left: 10px;">
+          <h2><b>Hillside Stronghold Area Operation</b></h2>
+          <ul>
+            <li>Located at the foot of Mount Snow</li>
+            <li>Released at (17 March 2020)</li>
+            <li>Requirements
+                <ul>
+                    <li>Clear Area Operation - Hospital and </li>
+                    <li>Reach Gathering Level 75</li>
+                </ul>
+            </li>
+          </ul>
+          <p>This video is from Arthur Gaming Sanctuary Youtube.</p>
+          <p>If you enjoy, please click Like and Subscribe Arthur Gaming Sanctuary Youtube Channel.</p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="video">
+          <iframe src="https://youtu.be/horD8PMIxnw?controls=0" style="overflow:hidden;height:100%;width:100%;"></iframe>
+        </div>
+        <div class="container" style="float: left;font-family: Comic Sans MS, sans-serif;width: 40%;margin-left: 10px;">
+          <h2><b>Levin Hospital Area Operation</b></h2>
+          <ul>
+            <li>Located at the Center of Levin City</li>
+            <li>Released at (6 November 2019)</li>
+            <li>Requirements
+                <ul>
+                    <li>Reach Gathering Level 71</li>
+                </ul>
+            </li>
+          </ul>
+          <p>This video is from Arthur Gaming Sanctuary Youtube.</p>
+          <p>If you enjoy, please click Like and Subscribe Arthur Gaming Sanctuary Youtube Channel.</p>
+        </div>
       </div>
     </div>
   </div>
