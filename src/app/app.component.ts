@@ -7,4 +7,16 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'lifeafter-food-recipes';
+  food_recipes: boolean = true;
+  certificates: boolean = false;
+
+  onGoToFoodRecipes() {
+    this.food_recipes = true;
+    this.certificates = false;
+  }
+
+  onGoToCertificates() {
+    this.food_recipes = false;
+    this.certificates = true;
+  }
 }
