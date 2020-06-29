@@ -77,10 +77,16 @@
       width: 620px;
     }
 .video {
-      width: 100% !important;
+      width: 580px !important;
     }
 .container {
       width: 100% !important;
+    }
+.certTable {
+      width: 580px;
+    }
+.card {
+      width: 580px;
     }
 }
   
