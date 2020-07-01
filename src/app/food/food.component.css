@@ -16,8 +16,8 @@
     .container {
           width: 100% !important;
         }
-    .certTable {
-          width: 580px;
+    .foodMain {
+          width: 580px !important;
         }
     .card {
           width: 580px;
@@ -46,7 +46,7 @@
         border-width:1px;
         color:#444;
         font-family:Arial, sans-serif;
-        font-size:14px;
+        font-size:12px;
         padding:10px 5px;
         word-break:normal;
     }
