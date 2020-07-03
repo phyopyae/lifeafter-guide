@@ -1,13 +1,14 @@
 <div class="header">
   <h1>Life After</h1>
   <p>Guide</p>
-  <div style="font-size: 14px;">If there are mistakes, wrong information or bugs, please contact to MM-Chi (CharlesTown) at chigaming@zohomail.com</div>
+  <div style="font-size: 14px;padding-bottom: 10px;">If there are mistakes, wrong information or bugs, please fee free to contact to chigaming@zohomail.com</div>
 </div>
 
 <div class="navbar">
   <a routerLink="/food" routerLinkActive="active" (click)="onGoToFoodRecipes()">Food Recipes</a>
   <a routerLink="/certificate" routerLinkActive="active" (click)="onGoToCertificates()">Certificates</a>
   <a routerLink="/video" routerLinkActive="active" (click)="onGoToVideoGuide()">Video Guide</a>
+  <a routerLink="/newbie" routerLinkActive="active" (click)="onGoToNewbieGuide()">Newbie Guide</a>
 </div>
 
 <div class="row">
@@ -20,6 +21,9 @@
       <router-outlet></router-outlet>
     </div>
     <div *ngIf="videoguide">
+      <router-outlet></router-outlet>
+    </div>
+    <div *ngIf="newbie">
       <router-outlet></router-outlet>
     </div>
   </div>

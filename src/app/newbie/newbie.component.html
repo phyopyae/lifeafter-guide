@@ -1,0 +1,260 @@
+<div class="newbieMain">
+<div style="text-align:center">
+    <h2>Newbie Guide</h2>
+    <p><span class="flag-icon flag-icon-mm" (click)="openNewbieMM()"></span>&nbsp;&nbsp;&nbsp;&nbsp;
+        <span class="flag-icon flag-icon-gb" (click)="openNewbieGB()"></span></p>
+</div>
+
+<!-- Three columns -->
+<div class="col-12">
+    <div class="column" (click)="openChapter1();scroll(content)" style="background-color: #1abc9c;color: #fcfaf9;">
+        Chapter 1 (Updating)
+    </div>
+    <div class="column" (click)="openChapter2();scroll(content)" style="background-color: #fcfaf9;">
+        Chapter 2 (Updating)
+    </div>
+    <div class="column" (click)="openChapter3();scroll(content)" style="background-color: #1abc9c;color: #fcfaf9;">
+        Chapter 3 (Updating)
+    </div>
+    <div class="column" (click)="openChapter4();scroll(content)" style="background-color: #fcfaf9;">
+        Chapter 4 (Updating)
+    </div>
+    <div class="column" (click)="openChapter5();scroll(content)" style="background-color: #1abc9c;color: #fcfaf9;">
+        Chapter 5 (Updating)
+    </div>
+    <div class="column" (click)="openChapter6();scroll(content)" style="background-color: #fcfaf9;">
+        Chapter 6 (Updating)
+    </div>
+</div>
+
+<!-- EN -->
+<div #content>
+<div *ngIf="isENLanguage">
+    <div *ngIf="chapter1">
+        <div id="b1" class="containerTab">
+            <h2>Chapter 1</h2>
+            <h4><strong>LifeAfter: Chapter 1 Walkthrough</strong></h4>
+            <p><span style="font-weight: 400;">There are 5 main quests which you have to complete in order to advance to
+                    the next chapter :</span></p>
+            <ul>
+                <li style="font-weight: 400;"><strong><em>Fall Forest I</em></strong></li>
+                <li style="font-weight: 400;"><strong><em>Back Home</em></strong></li>
+                <li style="font-weight: 400;"><strong><em>Fall Forest II</em></strong></li>
+                <li style="font-weight: 400;"><strong><em>Make Weapons</em></strong></li>
+                <li style="font-weight: 400;"><strong><em>Set Out Again</em></strong></li>
+            </ul>
+            <h4><strong>1. Fall Forest I</strong></h4>
+            <h5><strong>Storing Items</strong></h5>
+            <p><span style="font-weight: 400;">In this quest you have to store items in your cabinet.Go near the cabinet
+                    and interact, open it and put the items.</span></p>
+            <p><span style="font-weight: 400;">If you don&rsquo;t have a cabinet in your manor, you can build it with
+                    material bench. The material bench can be found in the dev zone or you can craft one for yourself in
+                    the furniture store(Hope 101).</span></p>
+            <h5><strong>Take The Helicopter</strong></h5>
+            <p><span style="font-weight: 400;">The helicopter will always be there to move you from one location to
+                    another. If you are having trouble finding your helicopter in the dark, open your mini-map and find
+                    the passageway icon(Red Exit door) on the map. This passageway displays the helicopter location. Go
+                    near the helicopter, open, pact zone and visit Autumn forest.</span></p>
+            <h5><strong>Gather Resources</strong></h5>
+            <p><span style="font-weight: 400;">You have to gather resources like wood and stone in Autumn Forest. Use
+                    your axe to chop trees and pickaxe to break the rocks.</span></p>
+            <h5><strong>Gather Hemp And Berries</strong></h5>
+            <p><span style="font-weight: 400;">To complete this quest you need to collect berries and hemp. You can find
+                    berries by visiting the green points in the map and hemp by visiting autumn leaf icon on the
+                    map.</span></p>
+            <h5><strong>Ship the Resources</strong></h5>
+            <p><span style="font-weight: 400;">In this quest, you have to use the mailman to ship your resources to
+                    complete it. You will not be able to go back home if you don&rsquo;t do this. Visit the helicopter
+                    evac point by visiting the red exit doorway icon in mini-map. Use the ladder to go up. Make sure you
+                    have gathered enough resources to ship it. Once you reach the top of the ladder, the mailman will be
+                    waiting for us. Interact with him and use mailing service and send all.</span></p>
+            <p>&nbsp;</p>
+            <h4><strong>2. Back Home</strong></h4>
+            <h5><strong>Claim The Resources</strong></h5>
+            <p><span style="font-weight: 400;">After completing your last quest of shipping resources from Autumn
+                    Forest, you have to visit your home(Dev Zone) and claim your resources from the mailbox.</span></p>
+            <h5><strong>Use Oven To Cook Food</strong></h5>
+            <p><span style="font-weight: 400;">You will need ingredients like berries or get Jam to cook a dish which
+                    you can find in the Autumn Forest. To cook your food, you will need an oven. If you don&rsquo;t have
+                    an oven in your manor then you can craft one at the furniture store. You can find a furniture store
+                    in Hope 101(Town). Open your mini-map and look for the hammer icon.</span></p>
+            <p><span style="font-weight: 400;">Once you visit the furniture store, go inside and craft the oven. To
+                    craft oven, you will need wood and iron ore. Once you finish crafting the oven, it can be found in
+                    your mail at the Dev Zone.</span></p>
+            <h5><strong>Make Wooden Board And Cabinet</strong></h5>
+            <p><span style="font-weight: 400;">You can craft these items from the material bench. If you don&rsquo;t
+                    have material bench in your manor, you can craft one from the furniture store. You can find a
+                    furniture store in Hope 101(Town). Open your mini-map and look for the hammer icon.</span></p>
+            <h5><strong>Make Rag/Craft Casual Jacket</strong></h5>
+            <p><span style="font-weight: 400;">To craft casual jacket we need an item called Rag. To craft these items
+                    you need gear workstation, you can visit the furniture store to craft it. Go close to your gear
+                    workstation, then select craft, armor making and then tap on the workable option and select</span>
+            </p>
+            <h5><strong>Store Items In Your Crafted Cabinet</strong></h5>
+            <p><span style="font-weight: 400;">Store item in your cabinet which can be found on your manor to complete
+                    this mission.</span></p>
+            <p>&nbsp;</p>
+            <h4><strong>3. Fall Forest II</strong></h4>
+            <h5><strong>Visit Autumn Forest</strong></h5>
+            <p><span style="font-weight: 400;">Visit the helicopter evac point to visit Autumn Forest</span></p>
+            <h5><strong>Make Arrows And Bandages</strong></h5>
+            <p><span style="font-weight: 400;">Tap the make button at the left side of your game screen to craft arrows
+                    and bandages. For crafting arrow you will need wood and stone, while to craft bandage you will need
+                    hemp.</span></p>
+            <h5><strong>Gather Bones</strong></h5>
+            <p><span style="font-weight: 400;">Use your crafted bow and arrow to hunt animals in the wilderness. Make
+                    sure not to hunt big animals like a bear as your level will be not enough to kill them at this
+                    moment with the bow. Hunt small animals like deer or wolf. Always stack bandage and food while
+                    hunting.</span></p>
+            <p><span style="font-weight: 400;">Once you kill an animal in the wilderness, go near them and search their
+                    body to pick up bones</span></p>
+            <h5><strong>Gather Iron/Twig/Flint</strong></h5>
+            <p><span style="font-weight: 400;">You can gather twig by chopping trees using an AXE. Flint and iron can be
+                    acquired by breaking rocks using a pickaxe. Flints are rare resources, so you might not get them in
+                    every hit.</span></p>
+            <h5><strong>Ship Your Resource</strong></h5>
+            <p><span style="font-weight: 400;">After you complete the previous quests, you will have enough resources to
+                    ship to your home. Visit the helicopter evac point, use the ladder to go up and interact with the
+                    mailman to use the mail service. Send all your items to your home(Dev Zone).</span></p>
+            <p>&nbsp;</p>
+            <h4><strong>4. Make Weapons</strong></h4>
+            <h5><strong>Claim Your Items</strong></h5>
+            <p><span style="font-weight: 400;">If you have completed all the previous quest of Fall Forest
+                </span><strong>II. </strong><span style="font-weight: 400;">You need to visit your manor and check the
+                    mailbox to retrieve the shipped resources.</span></p>
+            <h5><strong>Make Pig Iron</strong></h5>
+            <p><span style="font-weight: 400;">You can craft Pig Iron from the gear workstation. If you don&rsquo;t have
+                    a gear workstation in your manor, craft it from the furniture store in HOPE 101(Town). For Pig Iron
+                    you need to craft Iron Ore and Twig.</span></p>
+            <p><span style="font-weight: 400;">To craft Pig Iron visit your gear workstation, select crafting, then make
+                    a weapon and tap the workable option then select Pig Iron. You need to choose the quantity and then
+                    tap to start the craft.</span></p>
+            <h5><strong>Make Mondragon Rifle</strong></h5>
+            <p><span style="font-weight: 400;">You can use the gear workstation to craft the Mondragon Rifle.</span></p>
+            <h5><strong>Make Gunpowder/Crude Ammo Box</strong></h5>
+            <p><span style="font-weight: 400;">Use your gear workstation, select craft, then make weapons, select crude
+                    ammo box and tap on the workable tab and select gunpowder.</span></p>
+            <h5><strong>Load Ammunition In Your Rifle</strong></h5>
+            <p><span style="font-weight: 400;">Select crude ammo which you have crafted in the previous quest from your
+                    bag which can be found on the bottom left side of the game screen. place the ammo box on the ground
+                    and exit your bag, Go near the ammo box and reload your weapon.</span></p>
+            <p>&nbsp;</p>
+            <h4><strong>5. Set Out Again</strong></h4>
+            <h5><strong>&nbsp;Use Helicopter</strong></h5>
+            <p><span style="font-weight: 400;">Visit Autumn forest again and equip your Mondragon Rifle</span></p>
+            <h5><strong>Accept Board Quest</strong></h5>
+            <p><span style="font-weight: 400;">Once you reach Autumn Forest, open your mini-map and search for the home
+                    icon. Visit the point where you will find a quest board near the house. Stand close to the board and
+                    tap the view button to accept the quest&rsquo;s</span></p>
+            <h5><strong>Scan Resource Points</strong></h5>
+            <p><span style="font-weight: 400;">Once you accept your quest from the board, open your mini-map to locate
+                    the resource points. You can see the yellow color marker above the objects, animals or zombies. Open
+                    your mini-map and on the left side, you can check the quest target icons.</span></p>
+            <h5><strong>Kill Infected Zombies</strong></h5>
+            <p><span style="font-weight: 400;">To complete this quest you have to kill the zombies in the wilderness.
+                    Zombies mostly appear in the dark during night times. You can kill the zombies using your Mondragon
+                    Rifle or any other weapon</span></p>
+            <h5><strong>Unlock Chests</strong></h5>
+            <p><span style="font-weight: 400;">You need to explore the map to find the location of the chests. Mostly
+                    they can found near the helicopter evac point but there is no fixed location for it.</span></p>
+            <p><span style="font-weight: 400;">After completing all these quests, your LifeAfter Chapter 1 newbie
+                    quest&rsquo;s will be finished</span></p>
+            <p>&nbsp;</p>
+        </div>
+        <div><p>Credit : </p><a href="https://wannabegamerz.com/lifeafter-chapter-1-newbie-quests-guide-and-walkthrough/"  target="_blank">Link</a></div>
+    </div>
+    <div *ngIf="chapter2">
+        <div id="b2" class="containerTab">
+            <h2>Chapter 2</h2>
+            <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis
+                ullamcorper
+                nam. Ius error diceret deseruisse ad</p>
+        </div>
+    </div>
+    <div *ngIf="chapter3">
+        <div id="b3" class="containerTab">
+            <h2>Chapter 3</h2>
+            <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis
+                ullamcorper
+                nam. Ius error diceret deseruisse ad</p>
+        </div>
+    </div>
+    <div *ngIf="chapter4">
+        <div id="b1" class="containerTab">
+            <h2>Chapter 4</h2>
+            <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis
+                ullamcorper
+                nam. Ius error diceret deseruisse ad</p>
+        </div>
+    </div>
+    <div *ngIf="chapter5">
+        <div id="b2" class="containerTab">
+            <h2>Chapter 5</h2>
+            <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis
+                ullamcorper
+                nam. Ius error diceret deseruisse ad</p>
+        </div>
+    </div>
+    <div *ngIf="chapter6">
+        <div id="b3" class="containerTab">
+            <h2>Chapter 6</h2>
+            <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis
+                ullamcorper
+                nam. Ius error diceret deseruisse ad</p>
+        </div>
+    </div>
+</div>
+
+<!-- MM -->
+<div *ngIf="isMMLanguage">
+    <div *ngIf="chapter1">
+        <div id="b1" class="containerTab">
+            <h2>Chapter 1</h2>
+            <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis
+                ullamcorper
+                nam. Ius error diceret deseruisse ad</p>
+        </div>
+    </div>
+    <div *ngIf="chapter2">
+        <div id="b2" class="containerTab">
+            <h2>Chapter 2</h2>
+            <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis
+                ullamcorper
+                nam. Ius error diceret deseruisse ad</p>
+        </div>
+    </div>
+    <div *ngIf="chapter3">
+        <div id="b3" class="containerTab">
+            <h2>Chapter 3</h2>
+            <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis
+                ullamcorper
+                nam. Ius error diceret deseruisse ad</p>
+        </div>
+    </div>
+    <div *ngIf="chapter4">
+        <div id="b1" class="containerTab">
+            <h2>Chapter 4</h2>
+            <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis
+                ullamcorper
+                nam. Ius error diceret deseruisse ad</p>
+        </div>
+    </div>
+    <div *ngIf="chapter5">
+        <div id="b2" class="containerTab">
+            <h2>Chapter 5</h2>
+            <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis
+                ullamcorper
+                nam. Ius error diceret deseruisse ad</p>
+        </div>
+    </div>
+    <div *ngIf="chapter6">
+        <div id="b3" class="containerTab">
+            <h2>Chapter 6</h2>
+            <p>Lorem ipsum dolor sit amet, te quo doctus abhorreant, et pri deleniti intellegat, te sanctus inermis
+                ullamcorper
+                nam. Ius error diceret deseruisse ad</p>
+        </div>
+    </div>
+</div>
+</div>
+</div>

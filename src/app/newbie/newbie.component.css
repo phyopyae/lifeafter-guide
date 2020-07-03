@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+  }
+  .column {
+    float: left;
+    width: 33%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #1abc9c;
+    cursor: pointer;
+  }
+  
+  .containerTab {
+    float: left;
+    width: 100%;
+    padding-top: 10px;
+  }
+
+  .flag-icon {
+    cursor: pointer;
+  }
+
+  /* Responsive layout - when the screen is less than 700px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+
+    .newbieMain {
+          width: 580px !important;
+        }
+    }
