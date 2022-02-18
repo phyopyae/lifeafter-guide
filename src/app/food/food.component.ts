@@ -11,10 +11,20 @@ export class FoodComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    $(document).ready(function() {
+    $(document).ready(function () {
       $('#food').DataTable(
-        {responsive: true,"lengthMenu": [ 25, 50, 75, 100 ]});
-    } );
+        { 
+          dom: 'Blrftip',
+          responsive: true, 
+          "lengthMenu": [25, 50, 75, 100],
+          buttons: [ {
+            extend: 'excelHtml5',
+            autoFilter: true,
+            sheetName: 'Exported data'
+        } ]
+        }
+      );
+    });
 
   }
 }
