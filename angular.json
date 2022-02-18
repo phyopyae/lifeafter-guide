@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "lifeafter-food-recipes": {
+    "lifeafter-guide": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/lifeafter-food-recipes",
+            "outputPath": "dist/lifeafter-guide",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -63,18 +63,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "lifeafter-food-recipes:build"
+            "browserTarget": "lifeafter-guide:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "lifeafter-food-recipes:build:production"
+              "browserTarget": "lifeafter-guide:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "lifeafter-food-recipes:build"
+            "browserTarget": "lifeafter-guide:build"
           }
         },
         "test": {
@@ -112,16 +112,16 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "lifeafter-food-recipes:serve"
+            "devServerTarget": "lifeafter-guide:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "lifeafter-food-recipes:serve:production"
+              "devServerTarget": "lifeafter-guide:serve:production"
             }
           }
         }
       }
     }
   },
-  "defaultProject": "lifeafter-food-recipes"
+  "defaultProject": "lifeafter-guide"
 }
