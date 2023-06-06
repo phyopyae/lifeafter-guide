@@ -18,6 +18,7 @@ interface RECIPES {
 })
 
 export class FoodComponent implements OnInit {
+  
   Recipes: RECIPES[] = RecipesJson;
   constructor() { }
 
@@ -27,7 +28,7 @@ export class FoodComponent implements OnInit {
         { 
           dom: 'Blrftip',
           responsive: true, 
-          "lengthMenu": [25, 50, 75, 100],
+          "lengthMenu": [10, 25, 50, 75, 100],
           buttons: [ {
             extend: 'excelHtml5',
             autoFilter: true,

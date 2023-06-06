@@ -939,9 +939,9 @@
         "no": 105,
         "name": "Fantasy Cold Lychee Drink",
         "ingredient1": "Lychee",
-        "ingredient2": "?",
-        "ingredient3": "?",
-        "ingredient4": "?",
+        "ingredient2": "",
+        "ingredient3": "",
+        "ingredient4": "",
         "effects": "Increase All Damage & Combat Crit Chance"
     },
     {
@@ -992,10 +992,10 @@
     {
         "no": 111,
         "name": "Fish Stew With Lemon",
-        "ingredient1": "?",
-        "ingredient2": "?",
-        "ingredient3": "?",
-        "ingredient4": "?",
+        "ingredient1": "Lemon",
+        "ingredient2": "Fish",
+        "ingredient3": "Cayenne Pepper",
+        "ingredient4": "Seasoning",
         "effects": "Increase Logging Speed & Crit & Hemp Mastery"
     },
     {
@@ -1901,11 +1901,11 @@
     {
         "no": 212,
         "name": "Lemon Cheesecake",
-        "ingredient1": "?",
-        "ingredient2": "?",
-        "ingredient3": "?",
-        "ingredient4": "?",
-        "effects": "?"
+        "ingredient1": "Lemon",
+        "ingredient2": "Flour",
+        "ingredient3": "Milk",
+        "ingredient4": "Egg",
+        "effects": "Increase Hemp Crit & Speed & Mastery"
     },
     {
         "no": 213,
@@ -2108,10 +2108,10 @@
     {
         "no": 235,
         "name": "Mashed Potatoes With Cheese",
-        "ingredient1": "?",
-        "ingredient2": "?",
-        "ingredient3": "?",
-        "ingredient4": "?",
+        "ingredient1": "Potato",
+        "ingredient2": "Milk",
+        "ingredient3": "Milk",
+        "ingredient4": "Meat",
         "effects": "Increase Max Energy & Energy Rate"
     },
     {
@@ -2415,9 +2415,9 @@
         "no": 269,
         "name": "Organic Cranberry Cookies",
         "ingredient1": "Cranberry",
-        "ingredient2": "?",
-        "ingredient3": "?",
-        "ingredient4": "?",
+        "ingredient2": "",
+        "ingredient3": "",
+        "ingredient4": "",
         "effects": "Increase Damage To Infected & Attack Speed & Combat Crit Chance & Max Energy"
     },
     {
@@ -2873,10 +2873,10 @@
     {
         "no": 320,
         "name": "Shredded Chicken Salad",
-        "ingredient1": "?",
-        "ingredient2": "?",
-        "ingredient3": "?",
-        "ingredient4": "?",
+        "ingredient1": "Lemon",
+        "ingredient2": "Meat",
+        "ingredient3": "Cayenne Pepper",
+        "ingredient4": "Leek, Ginger & Garlic",
         "effects": "Increase Mining Speed & Crit & Hemp Mastery"
     },
     {
