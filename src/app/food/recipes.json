@@ -1,0 +1,3503 @@
+[
+    {
+        "no": 1,
+        "name": "Accordian Potatoes",
+        "ingredient1": "Potato",
+        "ingredient2": "Potato",
+        "ingredient3": "Meat",
+        "ingredient4": "Seasoning",
+        "effects": "Increase Combat Crit Chance & Firing Range"
+    },
+    {
+        "no": 2,
+        "name": "Apple Fries",
+        "ingredient1": "Apple",
+        "ingredient2": "Apple",
+        "ingredient3": "Cooking Oil",
+        "ingredient4": "Sauce",
+        "effects": "Increase Hemp Crit & Speed"
+    },
+    {
+        "no": 3,
+        "name": "Apple Jam",
+        "ingredient1": "Apple",
+        "ingredient2": "Apple",
+        "ingredient3": "Apple",
+        "ingredient4": "Apple",
+        "effects": "Increase Logging Speed & Mining Speed & Hemp Speed"
+    },
+    {
+        "no": 4,
+        "name": "Apple Pie",
+        "ingredient1": "Apple",
+        "ingredient2": "Flour",
+        "ingredient3": "Egg",
+        "ingredient4": "Sugar",
+        "effects": "Increase Headshot Damage & Firing Range"
+    },
+    {
+        "no": 5,
+        "name": "Assorted Platter",
+        "ingredient1": "Meat",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Mushroom",
+        "ingredient4": "Fruit",
+        "effects": "Increase Logging & Mining Crit"
+    },
+    {
+        "no": 6,
+        "name": "Assorted Shumai",
+        "ingredient1": "Meat",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Rice",
+        "ingredient4": "Rice",
+        "effects": "Increase Ammo Capacity & Logging Crit & Thunderstorm Resistance"
+    },
+    {
+        "no": 7,
+        "name": "Baked Tuna Rice Rolls",
+        "ingredient1": "Tuna",
+        "ingredient2": "Tuna",
+        "ingredient3": "Rice",
+        "ingredient4": "Seasoning",
+        "effects": "Increase Swimming Speed & Running Energy & Logging Speed"
+    },
+    {
+        "no": 8,
+        "name": "Barbecued Meats",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Meat",
+        "ingredient4": "Meat",
+        "effects": "HP Regeneration"
+    },
+    {
+        "no": 9,
+        "name": "Beef & Apple Sandwich",
+        "ingredient1": "Apple",
+        "ingredient2": "Meat",
+        "ingredient3": "Meat",
+        "ingredient4": "Flour",
+        "effects": "Increase Damage To Humanoid & Headshot Damage"
+    },
+    {
+        "no": 10,
+        "name": "Beef And Ox Tripe in Chili Sauce",
+        "ingredient1": "Animal Entrails",
+        "ingredient2": "Animal Entrails",
+        "ingredient3": "Pepper",
+        "ingredient4": "Cooking Oil",
+        "effects": "Increase Damage To Infected & Headshot Damage & Firing Rate"
+    },
+    {
+        "no": 11,
+        "name": "Beef Stew With Potatoes",
+        "ingredient1": "Potato",
+        "ingredient2": "Meat",
+        "ingredient3": "Meat",
+        "ingredient4": "Carrot",
+        "effects": "HP Regeneration Over Time & Increase Damage To Humanoid"
+    },
+    {
+        "no": 12,
+        "name": "Beet Porridge",
+        "ingredient1": "Vegetable",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Honey",
+        "ingredient4": "Honey",
+        "effects": "Increase Body Temperature"
+    },
+    {
+        "no": 13,
+        "name": "Bento of Love",
+        "ingredient1": "Grain of Love",
+        "ingredient2": "Grain of Love",
+        "ingredient3": "Grain of Love",
+        "ingredient4": "Grain of Love",
+        "effects": "HP Regeneration Over Time & Increase Combat Crit Chance & Damage To Infected"
+    },
+    {
+        "no": 14,
+        "name": "Berry Cheesecake",
+        "ingredient1": "Flour",
+        "ingredient2": "Milk",
+        "ingredient3": "Strawberry",
+        "ingredient4": "Blueberry",
+        "effects": "HP Regeneration Over Time"
+    },
+    {
+        "no": 15,
+        "name": "Blueberry Biscuit",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Blueberry",
+        "ingredient4": "Blueberry",
+        "effects": "Increase Logging Speed"
+    },
+    {
+        "no": 16,
+        "name": "Blueberry Coconut Crisp Snack",
+        "ingredient1": "Flour",
+        "ingredient2": "Blueberry",
+        "ingredient3": "Blueberry",
+        "ingredient4": "Coconut",
+        "effects": "Increase All Gathering Speed & Hemp Mastery"
+    },
+    {
+        "no": 17,
+        "name": "Boiled Blood Curd",
+        "ingredient1": "Meat",
+        "ingredient2": "Pepper",
+        "ingredient3": "Seasoning",
+        "ingredient4": "Animal Entrails",
+        "effects": "HP Regeneration Over Time & Increase Damage To Humanoid & Combat Mastery"
+    },
+    {
+        "no": 18,
+        "name": "Boiled Corn And Chilli Sauce",
+        "ingredient1": "Pepper",
+        "ingredient2": "Pepper",
+        "ingredient3": "Corn",
+        "ingredient4": "Corn",
+        "effects": "Increase Combat Crit Chance"
+    },
+    {
+        "no": 19,
+        "name": "Boiled Fish With Chilli Sauce",
+        "ingredient1": "Fish",
+        "ingredient2": "Fish",
+        "ingredient3": "Pepper",
+        "ingredient4": "Pepper",
+        "effects": "Increase Combat Mastery"
+    },
+    {
+        "no": 20,
+        "name": "Boiled Pork Slices",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Vegetable",
+        "ingredient4": "Pepper",
+        "effects": "Increase Combat Mastery"
+    },
+    {
+        "no": 21,
+        "name": "Bone And Radish Soup",
+        "ingredient1": "White Radish",
+        "ingredient2": "Meat",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Mining Crit & Speed & Blizzard Resistance"
+    },
+    {
+        "no": 22,
+        "name": "Braised Bream",
+        "ingredient1": "White Amur Bream",
+        "ingredient2": "White Amur Bream",
+        "ingredient3": "White Amur Bream",
+        "ingredient4": "White Amur Bream",
+        "effects": "Increase Logging Crit & Mining Crit & Hemp Crit & Blizzard Resistance"
+    },
+    {
+        "no": 23,
+        "name": "Braised Chicken With Potatoes",
+        "ingredient1": "Potato",
+        "ingredient2": "Meat",
+        "ingredient3": "Rice",
+        "ingredient4": "Sauce",
+        "effects": "Increase Hemp Crit & Speed & Mastery"
+    },
+    {
+        "no": 24,
+        "name": "Braised Diced Potatoes",
+        "ingredient1": "Potato",
+        "ingredient2": "Potato",
+        "ingredient3": "Carrot",
+        "ingredient4": "Pepper",
+        "effects": "Increase Max Energy & Attack Speed"
+    },
+    {
+        "no": 25,
+        "name": "Braised Eel",
+        "ingredient1": "Eel",
+        "ingredient2": "Eel",
+        "ingredient3": "Eel",
+        "ingredient4": "Eel",
+        "effects": "Increase Movement Speed & Mining Speed & Crit"
+    },
+    {
+        "no": 26,
+        "name": "Braised High-Fin Banded Shark",
+        "ingredient1": "High-Fin Banded Shark",
+        "ingredient2": "High-Fin Banded Shark",
+        "ingredient3": "High-Fin Banded Shark",
+        "ingredient4": "High-Fin Banded Shark",
+        "effects": "Increase Movement Speed & Logging Speed & Crit"
+    },
+    {
+        "no": 27,
+        "name": "Braised Lobster",
+        "ingredient1": "Shrimp",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Flour",
+        "ingredient4": "Flour",
+        "effects": "Increase Mining Speed & Crit"
+    },
+    {
+        "no": 28,
+        "name": "Braised Mudskipper",
+        "ingredient1": "Mudskipper",
+        "ingredient2": "Mudskipper",
+        "ingredient3": "Mudskipper",
+        "ingredient4": "Mudskipper",
+        "effects": "Increase Mining Speed & Crit & Hemp Mastery"
+    },
+    {
+        "no": 29,
+        "name": "Braised White Radish",
+        "ingredient1": "White Radish",
+        "ingredient2": "White Radish",
+        "ingredient3": "Sauce",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Logging Crit & Speed & Hemp Mastery"
+    },
+    {
+        "no": 30,
+        "name": "Bread Roll",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Flour",
+        "ingredient4": "Egg",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 31,
+        "name": "Bread With Bacon And Potatoes",
+        "ingredient1": "Potato",
+        "ingredient2": "Meat",
+        "ingredient3": "Flour",
+        "ingredient4": "Flour",
+        "effects": "\"HP Regeneration Over Time & Increase Combat Crit Chance & Damage To Building"
+    },
+    {
+        "no": 32,
+        "name": "Bread With Jam",
+        "ingredient1": "Fruit",
+        "ingredient2": "Fruit",
+        "ingredient3": "Fruit",
+        "ingredient4": "Flour",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 33,
+        "name": "Brown Sugar Rice Cake",
+        "ingredient1": "Honey",
+        "ingredient2": "Honey",
+        "ingredient3": "Rice",
+        "ingredient4": "Rice",
+        "effects": "Increase Mining Crit & S&storm Resistance"
+    },
+    {
+        "no": 34,
+        "name": "Candied Fruit",
+        "ingredient1": "Fruit",
+        "ingredient2": "Fruit",
+        "ingredient3": "Fruit",
+        "ingredient4": "Honey",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 35,
+        "name": "Candied Orange Peel",
+        "ingredient1": "Sweet Orange",
+        "ingredient2": "Seasoning",
+        "ingredient3": "Sugar",
+        "ingredient4": "Sugar",
+        "effects": "Increase Swimming Speed & Running Energy & Swamp Resistance"
+    },
+    {
+        "no": 36,
+        "name": "Cantaloupe and Coconut Milk Pudding",
+        "ingredient1": "Honeydew Melon",
+        "ingredient2": "Milk",
+        "ingredient3": "Coconut",
+        "ingredient4": "Sugar",
+        "effects": "Increase Mining Crit & Speed & Hemp Mastery"
+    },
+    {
+        "no": 37,
+        "name": "Cantaloupe Cake",
+        "ingredient1": "Honeydew Melon",
+        "ingredient2": "Honeydew Melon",
+        "ingredient3": "Flour",
+        "ingredient4": "Milk",
+        "effects": "Increase Logging Crit & Speed & Hemp Mastery"
+    },
+    {
+        "no": 38,
+        "name": "Cantaloupe Ice Cream",
+        "ingredient1": "Honeydew Melon",
+        "ingredient2": "Milk",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Sugar",
+        "effects": "Increase Movement Speed & Running Energy & Swamp Resistance"
+    },
+    {
+        "no": 39,
+        "name": "Cantaloupe Jam",
+        "ingredient1": "Honeydew Melon",
+        "ingredient2": "Honeydew Melon",
+        "ingredient3": "Honeydew Melon",
+        "ingredient4": "Honeydew Melon",
+        "effects": "Increase Movement Speed & Hemp Speed"
+    },
+    {
+        "no": 40,
+        "name": "Cantaloupe Juice",
+        "ingredient1": "Honeydew Melon",
+        "ingredient2": "Honeydew Melon",
+        "ingredient3": "Honeydew Melon",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Movement Speed & Running Energy"
+    },
+    {
+        "no": 41,
+        "name": "Cantaloupe Milkshake",
+        "ingredient1": "Honeydew Melon",
+        "ingredient2": "Honeydew Melon",
+        "ingredient3": "Milk",
+        "ingredient4": "Milk",
+        "effects": "Increase Movement Speed & Running Energy & Sandstorm Resistance"
+    },
+    {
+        "no": 42,
+        "name": "Cantaloupe Popsicle",
+        "ingredient1": "Honeydew Melon",
+        "ingredient2": "Honeydew Melon",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Damage To Animals & Movement Speed & Decrease Body Temperature"
+    },
+    {
+        "no": 43,
+        "name": "Capsicol Noodle",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Pepper",
+        "ingredient4": "Pepper",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 44,
+        "name": "Carrot Apple Juice",
+        "ingredient1": "Apple",
+        "ingredient2": "Carrot",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Logging Crit & Mining Crit & Hemp Crit"
+    },
+    {
+        "no": 45,
+        "name": "Carrot Corn Juice",
+        "ingredient1": "Corn",
+        "ingredient2": "Corn",
+        "ingredient3": "Carrot",
+        "ingredient4": "Carrot",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 46,
+        "name": "Carrot Meat Pie",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Carrot",
+        "ingredient4": "Carrot",
+        "effects": "Increase Damage To Animals"
+    },
+    {
+        "no": 47,
+        "name": "Cheese Rice With Sausage",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Meat",
+        "ingredient4": "Milk",
+        "effects": "HP Regeneration Over Time & Increase Mining Crit & Combat Mastery"
+    },
+    {
+        "no": 48,
+        "name": "Cheeseburger",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Milk",
+        "ingredient4": "Meat",
+        "effects": "Increase Logging Crit & Hemp Mastery"
+    },
+    {
+        "no": 49,
+        "name": "Chestnut & Meat",
+        "ingredient1": "Sticky Rice",
+        "ingredient2": "Sticky Rice",
+        "ingredient3": "Chestnut",
+        "ingredient4": "Port Belly",
+        "effects": "Increase Hemp Crit"
+    },
+    {
+        "no": 50,
+        "name": "Chestnut & Shrimp",
+        "ingredient1": "Chestnut",
+        "ingredient2": "Shrimp",
+        "ingredient3": "Sticky Rice",
+        "ingredient4": "Sticky Rice",
+        "effects": "Increase Mining Crit"
+    },
+    {
+        "no": 51,
+        "name": "Chicken Soup With Bamboo Shoots And Shiitake Mushrooms",
+        "ingredient1": "Bamboo Shoot",
+        "ingredient2": "Meat",
+        "ingredient3": "Mushroom",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Damage To Humanoid & Headshot Damage"
+    },
+    {
+        "no": 52,
+        "name": "Chilled Sliced Lemons",
+        "ingredient1": "Lemon",
+        "ingredient2": "Lemon",
+        "ingredient3": "Lemon",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Movement Speed"
+    },
+    {
+        "no": 53,
+        "name": "Chrysanthemum Tea",
+        "ingredient1": "Chrysanthemum Petal ",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "",
+        "ingredient4": "",
+        "effects": "Increase Damage To Building & Movement Speed"
+    },
+    {
+        "no": 54,
+        "name": "Chum Salmon Sashimi",
+        "ingredient1": "Chum Salmon",
+        "ingredient2": "Chum Salmon",
+        "ingredient3": "Chum Salmon",
+        "ingredient4": "Chum Salmon",
+        "effects": "Increase Logging Crit & Mining Crit & Hemp Crit & Thunderstorm Resistance"
+    },
+    {
+        "no": 55,
+        "name": "Clay Pot Rice",
+        "ingredient1": "Meat",
+        "ingredient2": "Rice",
+        "ingredient3": "Rice",
+        "ingredient4": "Seasoning",
+        "effects": "Increase Headshot Damage & Crit Immunity"
+    },
+    {
+        "no": 56,
+        "name": "Coconut & Mango Gummies",
+        "ingredient1": "Harry",
+        "ingredient2": "Milk",
+        "ingredient3": "Coconut",
+        "ingredient4": "Sugar",
+        "effects": "Increase Damage To Humanoid & Combat Crit Chance & Immunity"
+    },
+    {
+        "no": 57,
+        "name": "Coconut Barbecued Meat",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Coconut",
+        "ingredient4": "Coconut",
+        "effects": "Increase Hemp Mastery"
+    },
+    {
+        "no": 58,
+        "name": "Coconut Corn Soup",
+        "ingredient1": "Coconut",
+        "ingredient2": "Coconut",
+        "ingredient3": "Corn",
+        "ingredient4": "Corn",
+        "effects": "Increase Body Temperature"
+    },
+    {
+        "no": 59,
+        "name": "Coconut Cream Bread",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Flour",
+        "ingredient4": "Coconut",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 60,
+        "name": "Coconut Fruit Mix",
+        "ingredient1": "Fruit",
+        "ingredient2": "Fruit",
+        "ingredient3": "Coconut",
+        "ingredient4": "Coconut",
+        "effects": "Increase Swimming Speed"
+    },
+    {
+        "no": 61,
+        "name": "Coconut Jelly",
+        "ingredient1": "Ice Cube",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Coconut",
+        "effects": "Decrease Body Temperature"
+    },
+    {
+        "no": 62,
+        "name": "Coconut Rice",
+        "ingredient1": "Coconut",
+        "ingredient2": "Rice",
+        "ingredient3": "Egg",
+        "ingredient4": "Sauce",
+        "effects": "Increase Damage To Infected, Firing Rate & Hemp Mastery"
+    },
+    {
+        "no": 63,
+        "name": "Coconut Snowflake Cake",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Milk",
+        "ingredient4": "Coconut",
+        "effects": "Increase Hemp Mastery"
+    },
+    {
+        "no": 64,
+        "name": "Coconut Sticky Rice With Mango",
+        "ingredient1": "Harry",
+        "ingredient2": "Coconut",
+        "ingredient3": "Rice",
+        "ingredient4": "Rice",
+        "effects": "Increase Damage To Infected & Combat Crit Chance & Stability"
+    },
+    {
+        "no": 65,
+        "name": "Coconut Tapioca",
+        "ingredient1": "Honeydew Melon",
+        "ingredient2": "Milk",
+        "ingredient3": "Coconut",
+        "ingredient4": "Rice",
+        "effects": "Increase Damage To Infected & Combat Crit Chance & Mastery"
+    },
+    {
+        "no": 66,
+        "name": "Coconut With Steamed Egg",
+        "ingredient1": "Coconut",
+        "ingredient2": "Coconut",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Increase Energy & Swimming Speed"
+    },
+    {
+        "no": 67,
+        "name": "Coconut With Steamed Rice",
+        "ingredient1": "Coconut",
+        "ingredient2": "Coconut",
+        "ingredient3": "Rice",
+        "ingredient4": "Rice",
+        "effects": "HP Regeneration Over Time & Increase Logging Speed & Sandstorm Resistance"
+    },
+    {
+        "no": 68,
+        "name": "Cold Cucumber In Sauce",
+        "ingredient1": "Cucumber",
+        "ingredient2": "Sugar",
+        "ingredient3": "Leek, Ginger & Garlic",
+        "ingredient4": "Sauce",
+        "effects": "Increase Damage To Animals & Firing Range"
+    },
+    {
+        "no": 69,
+        "name": "Cold Noodles",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Sauce",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Energy Rate & Hemp Speed & Swamp Resistance"
+    },
+    {
+        "no": 70,
+        "name": "Cold Rice Cake",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Flour",
+        "ingredient4": "Seasoning",
+        "effects": "Increase Logging Speed & Crit & Thunderstorm Resistance"
+    },
+    {
+        "no": 71,
+        "name": "Colorful Fruit Tea",
+        "ingredient1": "Honeydew Melon",
+        "ingredient2": "Watermelon",
+        "ingredient3": "Lemon",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Hemp Crit & Speed & Mastery"
+    },
+    {
+        "no": 72,
+        "name": "Cooked Rice With Potatoes",
+        "ingredient1": "Potato",
+        "ingredient2": "Rice",
+        "ingredient3": "Leek, Ginger & Garlic",
+        "ingredient4": "Carrot",
+        "effects": "Increase Logging Speed & Sandstorm Resistance"
+    },
+    {
+        "no": 73,
+        "name": "Corn And Mincemeat",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Corn",
+        "ingredient4": "Corn",
+        "effects": "Increase Damage To Humanoid"
+    },
+    {
+        "no": 74,
+        "name": "Corn Pumpkin Porridge",
+        "ingredient1": "Corn",
+        "ingredient2": "Corn",
+        "ingredient3": "Corn",
+        "ingredient4": "Pumpkin",
+        "effects": "HP Regeneration"
+    },
+    {
+        "no": 75,
+        "name": "Corn Sponge Cake",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Flour",
+        "ingredient4": "Corn",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 76,
+        "name": "Corn, Turnip & Pork Rib Soup",
+        "ingredient1": "Carrot",
+        "ingredient2": "Carrot",
+        "ingredient3": "Corn",
+        "ingredient4": "Meat",
+        "effects": "HP Regeneration Over Time & Increase HP Cap & Crit Immunity"
+    },
+    {
+        "no": 77,
+        "name": "Creamy Soup",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Vegetable",
+        "ingredient4": "Milk",
+        "effects": "Increase Body Temperature"
+    },
+    {
+        "no": 78,
+        "name": "Crispy Apple Slices",
+        "ingredient1": "Apple",
+        "ingredient2": "Apple",
+        "ingredient3": "Apple",
+        "ingredient4": "Lemon",
+        "effects": "Increase Movement Speed & Mining Crit"
+    },
+    {
+        "no": 79,
+        "name": "Crispy Fried Apple",
+        "ingredient1": "Apple",
+        "ingredient2": "Apple",
+        "ingredient3": "Cooking Oil",
+        "ingredient4": "Flour",
+        "effects": "Increase Mining Crit & Speed & Max Energy"
+    },
+    {
+        "no": 80,
+        "name": "Crusty Pancake",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Flour",
+        "ingredient4": "Seasoning",
+        "effects": "Increase Combat Mastery & Headshot Damage & Running Energy"
+    },
+    {
+        "no": 81,
+        "name": "Crystal Shrimp Dumpling",
+        "ingredient1": "Shrimp",
+        "ingredient2": "Shrimp",
+        "ingredient3": "Flour",
+        "ingredient4": "Flour",
+        "effects": "Increase Logging Speed & Crit"
+    },
+    {
+        "no": 82,
+        "name": "Cucumber Rolls With Boiling Oil",
+        "ingredient1": "Cucumber",
+        "ingredient2": "Pepper",
+        "ingredient3": "Leek, Ginger & Garlic",
+        "ingredient4": "Sauce",
+        "effects": "Increase Damage To Humanoid & Firing Rate"
+    },
+    {
+        "no": 83,
+        "name": "Curry Fish Ball",
+        "ingredient1": "Vegetable",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Fish",
+        "ingredient4": "Sauce",
+        "effects": "Increase Hemp Crit & Speed"
+    },
+    {
+        "no": 84,
+        "name": "Cute Rice Ball",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Seasoning",
+        "ingredient4": "Carrot",
+        "effects": "HP Regeneration Over Time & Increase Movement Speed & Hemp Mastery"
+    },
+    {
+        "no": 85,
+        "name": "Dandan Noodles",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Seasoning",
+        "ingredient4": "Seasoning",
+        "effects": "Increase Logging Speed & Thunderstorm Resistance"
+    },
+    {
+        "no": 86,
+        "name": "Deep Fried Venustus",
+        "ingredient1": "Venustus",
+        "ingredient2": "Venustus",
+        "ingredient3": "Venustus",
+        "ingredient4": "Venustus",
+        "effects": "Increase Combat Mastery"
+    },
+    {
+        "no": 87,
+        "name": "Double Skin Milk",
+        "ingredient1": "Flour",
+        "ingredient2": "Milk",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Logging Crit & Running Energy"
+    },
+    {
+        "no": 88,
+        "name": "Drunk Peanut",
+        "ingredient1": "Peanuts",
+        "ingredient2": "Peanuts",
+        "ingredient3": "Seasoning",
+        "ingredient4": "Pepper",
+        "effects": "Increase Combat Crit Chance & Movement Speed & Energy Rate"
+    },
+    {
+        "no": 89,
+        "name": "Dry-Cooked Shumai",
+        "ingredient1": "Egg",
+        "ingredient2": "Egg",
+        "ingredient3": "Meat",
+        "ingredient4": "Seasoning",
+        "effects": "Increase Movement Speed & Energy Rate & Attack Speed"
+    },
+    {
+        "no": 90,
+        "name": "Dumplings",
+        "ingredient1": "Meat",
+        "ingredient2": "Mushroom",
+        "ingredient3": "Flour",
+        "ingredient4": "Flour",
+        "effects": "Increase Body Temperature"
+    },
+    {
+        "no": 91,
+        "name": "Dumplings In Spicy Sauce",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Flour",
+        "ingredient4": "Meat",
+        "effects": "Increase Reload Cost & Ammo Capacity"
+    },
+    {
+        "no": 92,
+        "name": "Egg & Pork Congee",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Egg",
+        "ingredient4": "Meat",
+        "effects": "Increase Crit Immunity & Attack Speed & Reload Cost"
+    },
+    {
+        "no": 93,
+        "name": "Egg Baked With Mushroom",
+        "ingredient1": "Mushroom",
+        "ingredient2": "Mushroom",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Increase Damage To Humanoid"
+    },
+    {
+        "no": 94,
+        "name": "Egg Crepes With Shrimp & Potatoes",
+        "ingredient1": "Potato",
+        "ingredient2": "Shrimp",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Increase Max Energy & Logging Crit"
+    },
+    {
+        "no": 95,
+        "name": "Egg Custard",
+        "ingredient1": "Egg",
+        "ingredient2": "Egg",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 96,
+        "name": "Egg Dumpling With Fresh Meat",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Increase Damage To Animals"
+    },
+    {
+        "no": 97,
+        "name": "Egg Dumplings With Fresh Bamboo Shoots",
+        "ingredient1": "Bamboo Shoot",
+        "ingredient2": "Shrimp",
+        "ingredient3": "Flour",
+        "ingredient4": "Egg",
+        "effects": "Increase Max Energy & Mining Crit & Speed & Thunderstorm Resistance"
+    },
+    {
+        "no": 98,
+        "name": "Egg Fried Rice",
+        "ingredient1": "Egg",
+        "ingredient2": "Egg",
+        "ingredient3": "Rice",
+        "ingredient4": "Rice",
+        "effects": "HP Regeneration Over Time & Increase Combat Mastery"
+    },
+    {
+        "no": 99,
+        "name": "Egg Rice Rolls",
+        "ingredient1": "Egg",
+        "ingredient2": "Egg",
+        "ingredient3": "Rice",
+        "ingredient4": "Sauce",
+        "effects": "Increase HP Cap & Ammo Capacity & Thunderstorm Resistance"
+    },
+    {
+        "no": 100,
+        "name": "Egg Salad With Mashed Potatoes",
+        "ingredient1": "Potato",
+        "ingredient2": "Egg",
+        "ingredient3": "Corn",
+        "ingredient4": "Milk",
+        "effects": "HP Reneration Over Time & Increase Combat Crit Chance & Damage To Humanoid & Combat Mastery"
+    },
+    {
+        "no": 101,
+        "name": "Egg Tart",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Honey",
+        "ingredient4": "Milk",
+        "effects": "Increase Mining Crit"
+    },
+    {
+        "no": 102,
+        "name": "Egg Waffle",
+        "ingredient1": "Egg",
+        "ingredient2": "Egg",
+        "ingredient3": "Flour",
+        "ingredient4": "Flour",
+        "effects": "Increase Damage To Infected & Combat Mastery"
+    },
+    {
+        "no": 103,
+        "name": "Egg Yolk And Corn Cookie",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Egg",
+        "ingredient4": "Corn",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 104,
+        "name": "Eight Delicacies And Tofu",
+        "ingredient1": "Bamboo Shoot",
+        "ingredient2": "Mushroom",
+        "ingredient3": "Carrot",
+        "ingredient4": "Tofu",
+        "effects": "Increase Max Energy & Hemp Crit & Speed & Thunderstorm Resistance"
+    },
+    {
+        "no": 105,
+        "name": "Fantasy Cold Lychee Drink",
+        "ingredient1": "Lychee",
+        "ingredient2": "?",
+        "ingredient3": "?",
+        "ingredient4": "?",
+        "effects": "Increase All Damage & Combat Crit Chance"
+    },
+    {
+        "no": 106,
+        "name": "Fermented Glutinous Rice",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Flour",
+        "ingredient4": "Seasoning",
+        "effects": "Increase Logging Crit & Swamp Resistance & Firing Range"
+    },
+    {
+        "no": 107,
+        "name": "Fire Ratfish Dish",
+        "ingredient1": "Fire Ratfish",
+        "ingredient2": "Fire Ratfish",
+        "ingredient3": "Fire Ratfish",
+        "ingredient4": "Fire Ratfish",
+        "effects": "HP Regeneration Over Time & Increase Combat Crit"
+    },
+    {
+        "no": 108,
+        "name": "Fish And Chips",
+        "ingredient1": "Fish",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Cooking Oil",
+        "ingredient4": "Sauce",
+        "effects": "Increase Hemp Crit & Mastery"
+    },
+    {
+        "no": 109,
+        "name": "Fish Ball Noodle",
+        "ingredient1": "Fish",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Flour",
+        "ingredient4": "Flour",
+        "effects": "Increase HP Cap"
+    },
+    {
+        "no": 110,
+        "name": "Fish In Banana Leaf",
+        "ingredient1": "Vegetable",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Fish",
+        "ingredient4": "Seasoning",
+        "effects": "Increase Logging Crit & Mining Crit & Hemp Crit"
+    },
+    {
+        "no": 111,
+        "name": "Fish Stew With Lemon",
+        "ingredient1": "?",
+        "ingredient2": "?",
+        "ingredient3": "?",
+        "ingredient4": "?",
+        "effects": "Increase Logging Speed & Crit & Hemp Mastery"
+    },
+    {
+        "no": 112,
+        "name": "Fish-Flavored Shredded Pork",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Pepper",
+        "ingredient4": "Carrot",
+        "effects": "HP Regeneration"
+    },
+    {
+        "no": 113,
+        "name": "Five Kernal Mooncake",
+        "ingredient1": "Special Flour",
+        "ingredient2": "Special Flour",
+        "ingredient3": "Kernels & Ham",
+        "ingredient4": "Kernels & Ham",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 114,
+        "name": "Flower-Shaped Fruit Platter",
+        "ingredient1": "Apple",
+        "ingredient2": "Apple",
+        "ingredient3": "Sweet Orange",
+        "ingredient4": "Sweet Orange",
+        "effects": "Increase Damage To Infected & Attack Speed & Combat Crit Chance & Max Energy"
+    },
+    {
+        "no": 115,
+        "name": "Flying Fish Sashimi",
+        "ingredient1": "Flying Fish",
+        "ingredient2": "Flying Fish",
+        "ingredient3": "Flying Fish",
+        "ingredient4": "Flying Fish",
+        "effects": "Increase Hemp Speed & Crit & Mastery"
+    },
+    {
+        "no": 116,
+        "name": "French Toast",
+        "ingredient1": "Fruit",
+        "ingredient2": "Milk",
+        "ingredient3": "Egg",
+        "ingredient4": "Sugar",
+        "effects": "Increase Logging Speed & Crit"
+    },
+    {
+        "no": 117,
+        "name": "Fried Baby Potatoes With Scallion",
+        "ingredient1": "Potato",
+        "ingredient2": "Potato",
+        "ingredient3": "Cooking Oil",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Firing Rate & Reload Cost"
+    },
+    {
+        "no": 118,
+        "name": "Fried Cubes",
+        "ingredient1": "Cucumber",
+        "ingredient2": "Potato",
+        "ingredient3": "Meat",
+        "ingredient4": "Carrot",
+        "effects": "HP Regeneration Over Time & Increase Combat Crit Chance & Damage To Infected"
+    },
+    {
+        "no": 119,
+        "name": "Fried Egg Soup With Shredded Radish",
+        "ingredient1": "White Radish",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "Egg",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Mining Crit & Cure Cold"
+    },
+    {
+        "no": 120,
+        "name": "Fried Eggs With Bamboo Shoots",
+        "ingredient1": "Bamboo Shoot",
+        "ingredient2": "Bamboo Shoot",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Increase Damage To Buildings & Attack Speed"
+    },
+    {
+        "no": 121,
+        "name": "Fried Fish Finger",
+        "ingredient1": "Fish",
+        "ingredient2": "Fish",
+        "ingredient3": "Flour",
+        "ingredient4": "Flour",
+        "effects": "Increase Mining Speed"
+    },
+    {
+        "no": 122,
+        "name": "Fried Grenadier Anchovy",
+        "ingredient1": "Grenadier Anchovy",
+        "ingredient2": "Grenadier Anchovy",
+        "ingredient3": "Grenadier Anchovy",
+        "ingredient4": "Grenadier Anchovy",
+        "effects": "Increase Combat Mastery"
+    },
+    {
+        "no": 123,
+        "name": "Fried Grunion",
+        "ingredient1": "Grunion",
+        "ingredient2": "Grunion",
+        "ingredient3": "Grunion",
+        "ingredient4": "Grunion",
+        "effects": "HP Regeneration Over Time & Combat Crit Chance"
+    },
+    {
+        "no": 124,
+        "name": "Fried Ice Acanthodian",
+        "ingredient1": "Ice Acanthodian",
+        "ingredient2": "Ice Acanthodian",
+        "ingredient3": "Ice Acanthodian",
+        "ingredient4": "Ice Acanthodian",
+        "effects": "Increase Movement Speed & Logging Speed & Crit"
+    },
+    {
+        "no": 125,
+        "name": "Fried Japanese Halfbeak",
+        "ingredient1": "Japanese Halfbeak",
+        "ingredient2": "Japanese Halfbeak",
+        "ingredient3": "Japanese Halfbeak",
+        "ingredient4": "Japanese Halfbeak",
+        "effects": "Increase Combat Crit Chance & Mastery & Firing Rate"
+    },
+    {
+        "no": 126,
+        "name": "Fried Mushroom And Pepper",
+        "ingredient1": "Mushroom",
+        "ingredient2": "Mushroom",
+        "ingredient3": "Pepper",
+        "ingredient4": "Pepper",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 127,
+        "name": "Fried Pepper And Egg",
+        "ingredient1": "Pepper",
+        "ingredient2": "Pepper",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 128,
+        "name": "Fried Pig Intestines",
+        "ingredient1": "Pepper",
+        "ingredient2": "Pepper",
+        "ingredient3": "Animal Entrails",
+        "ingredient4": "Animal Entrails",
+        "effects": "Increase Damage To Building & Firing Range"
+    },
+    {
+        "no": 129,
+        "name": "Fried Pork With Potato Shreds",
+        "ingredient1": "Potato",
+        "ingredient2": "Potato",
+        "ingredient3": "Meat",
+        "ingredient4": "Meat",
+        "effects": "Increase Damage To Infected & HP Regeneration Over Time"
+    },
+    {
+        "no": 130,
+        "name": "Fried Potatoes With Lemon Juice",
+        "ingredient1": "Potato",
+        "ingredient2": "Potato",
+        "ingredient3": "Lemon",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Ammo Capacity & Reload Cost"
+    },
+    {
+        "no": 131,
+        "name": "Fried Pumpkins Stick",
+        "ingredient1": "Flour",
+        "ingredient2": "Milk",
+        "ingredient3": "Pumpkin",
+        "ingredient4": "Pumpkin",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 132,
+        "name": "Fried Rice Noodles",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Meat",
+        "ingredient4": "Pepper",
+        "effects": "Increase Hemp Mastery & Energy Rate"
+    },
+    {
+        "no": 133,
+        "name": "Fried Seafood Rice",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Shrimp",
+        "ingredient4": "River Crab",
+        "effects": "Increase HP Cap & Mining Crit"
+    },
+    {
+        "no": 134,
+        "name": "Fried Seafood Udon",
+        "ingredient1": "Flour",
+        "ingredient2": "Shrimp",
+        "ingredient3": "Squid",
+        "ingredient4": "Swimming Crab",
+        "effects": "Increase HP Cap"
+    },
+    {
+        "no": 135,
+        "name": "Fried Shrimp With Eggs",
+        "ingredient1": "Shrimp",
+        "ingredient2": "Shrimp",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 136,
+        "name": "Fried Sliced Potatoes",
+        "ingredient1": "Potato",
+        "ingredient2": "Cooking Oil",
+        "ingredient3": "Sauce",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Headshot Damage & Blizzard Resistance"
+    },
+    {
+        "no": 137,
+        "name": "Fried Sole Fish",
+        "ingredient1": "Sole Fish",
+        "ingredient2": "Sole Fish",
+        "ingredient3": "Sole Fish",
+        "ingredient4": "Sole Fish",
+        "effects": "Increase Movement Speed & Mining Speed & Crit"
+    },
+    {
+        "no": 138,
+        "name": "Fried Spicy Watermelon",
+        "ingredient1": "Pepper",
+        "ingredient2": "Pepper",
+        "ingredient3": "Watermelon",
+        "ingredient4": "Watermelon",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 139,
+        "name": "Fried Squid Ring",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Squid",
+        "ingredient4": "Squid",
+        "effects": "Increase Swimming Speed"
+    },
+    {
+        "no": 140,
+        "name": "Fried Tofu",
+        "ingredient1": "Tofu",
+        "ingredient2": "Tofu",
+        "ingredient3": "Meat",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Movement Speed & Firing Rate"
+    },
+    {
+        "no": 141,
+        "name": "Fries",
+        "ingredient1": "Potato",
+        "ingredient2": "Potato",
+        "ingredient3": "Potato",
+        "ingredient4": "Cooking Oil",
+        "effects": "Increase Movement Speed & Swimming Speed & Hemp Mastery"
+    },
+    {
+        "no": 142,
+        "name": "Fruit And Vegetable Salad",
+        "ingredient1": "Vegetable",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Fruit",
+        "ingredient4": "Fruit",
+        "effects": "Increase Hemp Crit"
+    },
+    {
+        "no": 143,
+        "name": "Fruit Cake",
+        "ingredient1": "Fruit",
+        "ingredient2": "Fruit",
+        "ingredient3": "Flour",
+        "ingredient4": "Milk",
+        "effects": "Increase Movement Speed"
+    },
+    {
+        "no": 144,
+        "name": "Fruit Coconut Cream",
+        "ingredient1": "Fruit",
+        "ingredient2": "Fruit",
+        "ingredient3": "Milk",
+        "ingredient4": "Coconut",
+        "effects": "Swimming Speed Increase"
+    },
+    {
+        "no": 145,
+        "name": "Fruit Ice Congee",
+        "ingredient1": "Fruit",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "Rice",
+        "ingredient4": "Rice",
+        "effects": "Increase Movement Speed & Mining Speed & Sandstorm Resistance"
+    },
+    {
+        "no": 146,
+        "name": "Fruit Lollipop",
+        "ingredient1": "Honey",
+        "ingredient2": "Honey",
+        "ingredient3": "Strawberry",
+        "ingredient4": "Strawberry",
+        "effects": "Increase Movement Speed & Swimming Speed"
+    },
+    {
+        "no": 147,
+        "name": "Fruit Milk",
+        "ingredient1": "Fruit",
+        "ingredient2": "Fruit",
+        "ingredient3": "Fruit",
+        "ingredient4": "Milk",
+        "effects": "Health Regeneration"
+    },
+    {
+        "no": 148,
+        "name": "Fruit Pie",
+        "ingredient1": "Flour",
+        "ingredient2": "Fruit",
+        "ingredient3": "Fruit",
+        "ingredient4": "Honey",
+        "effects": "Increase Damage To Humanoid"
+    },
+    {
+        "no": 149,
+        "name": "Fruit Smoothie",
+        "ingredient1": "Fruit",
+        "ingredient2": "Fruit",
+        "ingredient3": "Honey",
+        "ingredient4": "Ice Cube",
+        "effects": "Decrease Body Temperature"
+    },
+    {
+        "no": 150,
+        "name": "Fruity Popsicle",
+        "ingredient1": "Fruit",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Decrease Body Temperature"
+    },
+    {
+        "no": 151,
+        "name": "Ginger Milk Curd",
+        "ingredient1": "Honey",
+        "ingredient2": "Honey",
+        "ingredient3": "Milk",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Movement Speed & Logging Crit"
+    },
+    {
+        "no": 152,
+        "name": "Ginger Tea",
+        "ingredient1": "Honey",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "Leek, Ginger & Garlic",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Swimming Speed & Mining Speed & Running Energy"
+    },
+    {
+        "no": 153,
+        "name": "Golden Corn Cake",
+        "ingredient1": "Egg",
+        "ingredient2": "Corn",
+        "ingredient3": "Corn",
+        "ingredient4": "Carrot",
+        "effects": "Increase All Gathering Speed"
+    },
+    {
+        "no": 154,
+        "name": "Golden Corn Fritter",
+        "ingredient1": "Honey",
+        "ingredient2": "Honey",
+        "ingredient3": "Corn",
+        "ingredient4": "Corn",
+        "effects": "HP Regeneration"
+    },
+    {
+        "no": 155,
+        "name": "Grilled Black Carp",
+        "ingredient1": "Black Carp",
+        "ingredient2": "Black Carp",
+        "ingredient3": "Black Carp",
+        "ingredient4": "Black Carp",
+        "effects": "Increase Logging Speed & Mining Speed & Hemp Speed & Blizzard Resistance"
+    },
+    {
+        "no": 156,
+        "name": "Grilled Carp",
+        "ingredient1": "Carp",
+        "ingredient2": "Carp",
+        "ingredient3": "Carp",
+        "ingredient4": "Carp",
+        "effects": "Increase Hemp Speed"
+    },
+    {
+        "no": 157,
+        "name": "Grilled Catfish",
+        "ingredient1": "Catfish",
+        "ingredient2": "Catfish",
+        "ingredient3": "Catfish",
+        "ingredient4": "Catfish",
+        "effects": "Increase Mining Speed"
+    },
+    {
+        "no": 158,
+        "name": "Grilled Corn",
+        "ingredient1": "Corn",
+        "ingredient2": "Corn",
+        "ingredient3": "Corn",
+        "ingredient4": "Corn",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 159,
+        "name": "Grilled Grass Carp",
+        "ingredient1": "Grass Carp",
+        "ingredient2": "Grass Carp",
+        "ingredient3": "Grass Carp",
+        "ingredient4": "Grass Carp",
+        "effects": "Increase Logging Speed"
+    },
+    {
+        "no": 160,
+        "name": "Grilled Grouper",
+        "ingredient1": "Grouper Fish",
+        "ingredient2": "Grouper Fish",
+        "ingredient3": "Grouper Fish",
+        "ingredient4": "Grouper Fish",
+        "effects": "Increase Hemp Speed"
+    },
+    {
+        "no": 161,
+        "name": "Grilled Halichoeres",
+        "ingredient1": "Bubblefin Wrasse",
+        "ingredient2": "Bubblefin Wrasse",
+        "ingredient3": "Bubblefin Wrasse",
+        "ingredient4": "Bubblefin Wrasse",
+        "effects": "HP Regeneration"
+    },
+    {
+        "no": 162,
+        "name": "Grilled Mackerel",
+        "ingredient1": "Mackerel",
+        "ingredient2": "Mackerel",
+        "ingredient3": "Mackerel",
+        "ingredient4": "Mackerel",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 163,
+        "name": "Grilled Manta Ray",
+        "ingredient1": "Manta Ray",
+        "ingredient2": "Manta Ray",
+        "ingredient3": "Pepper",
+        "ingredient4": "Pepper",
+        "effects": "Increase All Damage & Combat Crit Chance"
+    },
+    {
+        "no": 164,
+        "name": "Grilled Matsutake",
+        "ingredient1": "Matsutake Mushroom",
+        "ingredient2": "Matsutake Mushroom",
+        "ingredient3": "Matsutake Mushroom",
+        "ingredient4": "Matsutake Mushroom",
+        "effects": "Health Regeneration"
+    },
+    {
+        "no": 165,
+        "name": "Grilled Mushroom",
+        "ingredient1": "Mushroom",
+        "ingredient2": "Mushroom",
+        "ingredient3": "Mushroom",
+        "ingredient4": "Mushroom",
+        "effects": "Health Regeneration"
+    },
+    {
+        "no": 166,
+        "name": "Grilled Ocean Sunfish",
+        "ingredient1": "Ocean Sunfish",
+        "ingredient2": "Ocean Sunfish",
+        "ingredient3": "Ocean Sunfish",
+        "ingredient4": "Ocean Sunfish",
+        "effects": "Increase Hemp Speed & Mastery"
+    },
+    {
+        "no": 167,
+        "name": "Grilled Parrotfish",
+        "ingredient1": "Parrotfish",
+        "ingredient2": "Parrotfish",
+        "ingredient3": "Parrotfish",
+        "ingredient4": "Parrotfish",
+        "effects": "Increase Logging Speed"
+    },
+    {
+        "no": 168,
+        "name": "Grilled Perch",
+        "ingredient1": "Perch",
+        "ingredient2": "Perch",
+        "ingredient3": "Perch",
+        "ingredient4": "Perch",
+        "effects": "HP Regeneration"
+    },
+    {
+        "no": 169,
+        "name": "Grilled Potato",
+        "ingredient1": "Potato",
+        "ingredient2": "Potato",
+        "ingredient3": "Potato",
+        "ingredient4": "Potato",
+        "effects": "Increase Firing Rate & Range"
+    },
+    {
+        "no": 170,
+        "name": "Grilled Puffer Fish",
+        "ingredient1": "Puffer Fish",
+        "ingredient2": "Puffer Fish",
+        "ingredient3": "Puffer Fish",
+        "ingredient4": "Puffer Fish",
+        "effects": "HP Regeneration"
+    },
+    {
+        "no": 171,
+        "name": "Grilled Red Snapper",
+        "ingredient1": "Red Snapper",
+        "ingredient2": "Red Snapper",
+        "ingredient3": "Red Snapper",
+        "ingredient4": "Red Snapper",
+        "effects": "Increase Movement Speed & HP Cap"
+    },
+    {
+        "no": 172,
+        "name": "Grilled Red Stingray",
+        "ingredient1": "Red Stingray",
+        "ingredient2": "Red Stingray",
+        "ingredient3": "Red Stingray",
+        "ingredient4": "Red Stingray",
+        "effects": "Increase Logging Speed & Crit & Hemp Mastery"
+    },
+    {
+        "no": 173,
+        "name": "Grilled Red Tilapia",
+        "ingredient1": "Red Tilapia",
+        "ingredient2": "Red Tilapia",
+        "ingredient3": "Red Tilapia",
+        "ingredient4": "Red Tilapia",
+        "effects": "Increase Mining Speed & Crit"
+    },
+    {
+        "no": 174,
+        "name": "Grilled Ribbonfish",
+        "ingredient1": "Ribbonfish",
+        "ingredient2": "Ribbonfish",
+        "ingredient3": "Ribbonfish",
+        "ingredient4": "Ribbonfish",
+        "effects": "Increase Logging Speed"
+    },
+    {
+        "no": 175,
+        "name": "Grilled Salmon",
+        "ingredient1": "Salmon",
+        "ingredient2": "Salmon",
+        "ingredient3": "Salmon",
+        "ingredient4": "Salmon",
+        "effects": "Increase Hemp Speed & Crit"
+    },
+    {
+        "no": 176,
+        "name": "Grilled Saury",
+        "ingredient1": "Saury",
+        "ingredient2": "Saury",
+        "ingredient3": "Saury",
+        "ingredient4": "Saury",
+        "effects": "Increase Movement Speed & Hemp Speed & Crit"
+    },
+    {
+        "no": 177,
+        "name": "Grilled Sea Eal",
+        "ingredient1": "Sea Eel",
+        "ingredient2": "Sea Eel",
+        "ingredient3": "Sea Eel",
+        "ingredient4": "Sea Eel",
+        "effects": "Increase Logging & Mining Speed"
+    },
+    {
+        "no": 178,
+        "name": "Grilled Silver Carp",
+        "ingredient1": "Silver Carp",
+        "ingredient2": "Silver Carp",
+        "ingredient3": "Silver Carp",
+        "ingredient4": "Silver Carp",
+        "effects": "Increase Combat Crit Chance & Max Energy"
+    },
+    {
+        "no": 179,
+        "name": "Grilled Soft-Shelled Turtle",
+        "ingredient1": "Soft-Shelled Turtle",
+        "ingredient2": "Soft-Shelled Turtle",
+        "ingredient3": "Soft-Shelled Turtle",
+        "ingredient4": "Soft-Shelled Turtle",
+        "effects": "Increase Hemp Mastery"
+    },
+    {
+        "no": 180,
+        "name": "Grilled Squid",
+        "ingredient1": "Squid",
+        "ingredient2": "Squid",
+        "ingredient3": "Squid",
+        "ingredient4": "Squid",
+        "effects": "Increase Mining & Hemp Speed"
+    },
+    {
+        "no": 181,
+        "name": "Grilled Sunfish",
+        "ingredient1": "Sunfish",
+        "ingredient2": "Sunfish",
+        "ingredient3": "Sunfish",
+        "ingredient4": "Sunfish",
+        "effects": "HP Regeneration Over Time"
+    },
+    {
+        "no": 182,
+        "name": "Grilled Swamp Eel",
+        "ingredient1": "Swamp Eel",
+        "ingredient2": "Swamp Eel",
+        "ingredient3": "Swamp Eel",
+        "ingredient4": "Swamp Eel",
+        "effects": "Increase Logging Crit & Mining Crit & Hemp Crit & Sandstorm Resistance"
+    },
+    {
+        "no": 183,
+        "name": "Grilled Swimming Crab",
+        "ingredient1": "Swimming Crab",
+        "ingredient2": "Swimming Crab",
+        "ingredient3": "Swimming Crab",
+        "ingredient4": "Swimming Crab",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 184,
+        "name": "Grilled Triggerfish",
+        "ingredient1": "Tiggerfish",
+        "ingredient2": "Tiggerfish",
+        "ingredient3": "Tiggerfish",
+        "ingredient4": "Tiggerfish",
+        "effects": "Increase Logging & Hemp Speed"
+    },
+    {
+        "no": 185,
+        "name": "Grilled Trout",
+        "ingredient1": "Rainbow Trout",
+        "ingredient2": "Rainbow Trout",
+        "ingredient3": "Rainbow Trout",
+        "ingredient4": "Rainbow Trout",
+        "effects": "Increase Movement Speed"
+    },
+    {
+        "no": 186,
+        "name": "Grilled Turbot",
+        "ingredient1": "Turbot",
+        "ingredient2": "Turbot",
+        "ingredient3": "Turbot",
+        "ingredient4": "Turbot",
+        "effects": "Increase Mining Speed"
+    },
+    {
+        "no": 187,
+        "name": "Grilled Weever",
+        "ingredient1": "Striped Weever",
+        "ingredient2": "Striped Weever",
+        "ingredient3": "Striped Weever",
+        "ingredient4": "Striped Weever",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 188,
+        "name": "Grilled Wrasse",
+        "ingredient1": "Wrasse",
+        "ingredient2": "Wrasse",
+        "ingredient3": "Wrasse",
+        "ingredient4": "Wrasse",
+        "effects": "Increase Logging & Mining Speed"
+    },
+    {
+        "no": 189,
+        "name": "Grilled Yellow Croaker",
+        "ingredient1": "Yellow Croaker",
+        "ingredient2": "Yellow Croaker",
+        "ingredient3": "Yellow Croaker",
+        "ingredient4": "Yellow Croaker",
+        "effects": "HP Regeneration"
+    },
+    {
+        "no": 190,
+        "name": "Ham & Egg Congee",
+        "ingredient1": "Ham",
+        "ingredient2": "Meat",
+        "ingredient3": "Rice",
+        "ingredient4": "Rice",
+        "effects": "Increase Ammo Capacity & Firing Rate & Blizzard Resistance"
+    },
+    {
+        "no": 191,
+        "name": "Honey",
+        "ingredient1": "Honey",
+        "ingredient2": "Honey",
+        "ingredient3": "Honey",
+        "ingredient4": "Honey",
+        "effects": "HP Regeneration"
+    },
+    {
+        "no": 192,
+        "name": "Honey Croissant",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Flour",
+        "ingredient4": "Honey",
+        "effects": "Increase Logging Crit"
+    },
+    {
+        "no": 193,
+        "name": "Honey Egg Flower Soup",
+        "ingredient1": "Honey",
+        "ingredient2": "Egg",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Increase Body Temperature"
+    },
+    {
+        "no": 194,
+        "name": "Honey Grilled Meat",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Meat",
+        "ingredient4": "Honey",
+        "effects": "HP Regeneration"
+    },
+    {
+        "no": 195,
+        "name": "Honey Lemon Drink",
+        "ingredient1": "Lemon",
+        "ingredient2": "Sugar",
+        "ingredient3": "Sugar",
+        "ingredient4": "Sugar",
+        "effects": "Increase Swimming Speed"
+    },
+    {
+        "no": 196,
+        "name": "Honey Lemon Tea",
+        "ingredient1": "Honey",
+        "ingredient2": "Lemon",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Jump Height"
+    },
+    {
+        "no": 197,
+        "name": "Honey Water",
+        "ingredient1": "Honey",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Body Temperature"
+    },
+    {
+        "no": 198,
+        "name": "Hot & Sour Rice Noodles",
+        "ingredient1": "Pepper",
+        "ingredient2": "Vermicelli",
+        "ingredient3": "Leek, Ginger & Garlic",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Combat Crit Chance & Running Energy & Swamp Resistance"
+    },
+    {
+        "no": 199,
+        "name": "Hot & Spicy Pot",
+        "ingredient1": "Meat",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Mushroom",
+        "ingredient4": "Pepper",
+        "effects": "Increase Combat Crit Chance & Combat Mastery"
+    },
+    {
+        "no": 200,
+        "name": "Hot And Sour Noodles",
+        "ingredient1": "Cucumber",
+        "ingredient2": "Flour",
+        "ingredient3": "Pepper",
+        "ingredient4": "Sauce",
+        "effects": "Increase Max Energy & Mining Crit & Speed & Decrease Body Temperature"
+    },
+    {
+        "no": 201,
+        "name": "Hot Mushroom",
+        "ingredient1": "Mushroom",
+        "ingredient2": "Mushroom",
+        "ingredient3": "Mushroom",
+        "ingredient4": "Honey",
+        "effects": "Increase Hemp Crit"
+    },
+    {
+        "no": 202,
+        "name": "Hot Spicy Seafood Pot",
+        "ingredient1": "Swimming Crab",
+        "ingredient2": "Squid",
+        "ingredient3": "Shrimp",
+        "ingredient4": "Pepper",
+        "effects": "Increase All Damage & Combat Mastery"
+    },
+    {
+        "no": 203,
+        "name": "Hot Water",
+        "ingredient1": "Ice Cube",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Body Temperature & Cure Cold"
+    },
+    {
+        "no": 204,
+        "name": "Intestine Rice Rolls",
+        "ingredient1": "Animal Entrails",
+        "ingredient2": "Pepper",
+        "ingredient3": "Vermicelli",
+        "ingredient4": "Vermicelli",
+        "effects": "Increase Damage To Infected & Reload Cost & Thunderstorm Resistance"
+    },
+    {
+        "no": 205,
+        "name": "Jam",
+        "ingredient1": "Fruit",
+        "ingredient2": "Fruit",
+        "ingredient3": "Fruit",
+        "ingredient4": "Fruit",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 206,
+        "name": "Juice",
+        "ingredient1": "Fruit",
+        "ingredient2": "Fruit",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 207,
+        "name": "Jujube Dumplings",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Jujube",
+        "ingredient4": "Jujube",
+        "effects": "Increase All Damage & Movement Speed & Body Temperature"
+    },
+    {
+        "no": 208,
+        "name": "Kidney & Liver Rice Rolls",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Sauce",
+        "ingredient4": "Animal Entrails",
+        "effects": "HP Regeneration Over Time & Increase Damage To Humanoid & Swamp Resistance"
+    },
+    {
+        "no": 209,
+        "name": "King Prawn Soup",
+        "ingredient1": "Fish",
+        "ingredient2": "Fish",
+        "ingredient3": "Shrimp",
+        "ingredient4": "River Crab",
+        "effects": "Increase All Gathering Speed"
+    },
+    {
+        "no": 210,
+        "name": "Koi Sashimi",
+        "ingredient1": "Koi",
+        "ingredient2": "Koi",
+        "ingredient3": "Koi",
+        "ingredient4": "Koi",
+        "effects": "Everything"
+    },
+    {
+        "no": 211,
+        "name": "Lemon & Orange Juice",
+        "ingredient1": "Sweet Orange",
+        "ingredient2": "Lemon",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Swimming Speed & Mining Crit"
+    },
+    {
+        "no": 212,
+        "name": "Lemon Cheesecake",
+        "ingredient1": "?",
+        "ingredient2": "?",
+        "ingredient3": "?",
+        "ingredient4": "?",
+        "effects": "?"
+    },
+    {
+        "no": 213,
+        "name": "Lemon Chiffon Cake",
+        "ingredient1": "Flour",
+        "ingredient2": "Egg",
+        "ingredient3": "Sugar",
+        "ingredient4": "Lemon",
+        "effects": "Increase Hemp Speed & Mastery"
+    },
+    {
+        "no": 214,
+        "name": "Lemon Ice Cream",
+        "ingredient1": "Lemon",
+        "ingredient2": "Sugar",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Movement Speed & Jump Height"
+    },
+    {
+        "no": 215,
+        "name": "Lemon Juice",
+        "ingredient1": "Lemon",
+        "ingredient2": "Lemon",
+        "ingredient3": "Lemon",
+        "ingredient4": "Lemon",
+        "effects": "Increase Movement Speed & Sandstorm Resistance"
+    },
+    {
+        "no": 216,
+        "name": "Lemon Lollipop",
+        "ingredient1": "Lemon",
+        "ingredient2": "Lemon",
+        "ingredient3": "Sugar",
+        "ingredient4": "Sugar",
+        "effects": "Increase Max Energy"
+    },
+    {
+        "no": 217,
+        "name": "Lemon Madeleine",
+        "ingredient1": "Lemon",
+        "ingredient2": "Flour",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Increase Energy Rate"
+    },
+    {
+        "no": 218,
+        "name": "Lemon Marmalade",
+        "ingredient1": "Lemon",
+        "ingredient2": "Lemon",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "HP Regeneration Over Time"
+    },
+    {
+        "no": 219,
+        "name": "Lobster Feast",
+        "ingredient1": "Lobster",
+        "ingredient2": "Lobster",
+        "ingredient3": "Lobster",
+        "ingredient4": "Lobster",
+        "effects": "Increase HP Cap"
+    },
+    {
+        "no": 220,
+        "name": "Lotus Paste & Yolk Cake",
+        "ingredient1": "Special Flour",
+        "ingredient2": "Special Flour",
+        "ingredient3": "Lotus Seed Paste & Salted Egg Yolk",
+        "ingredient4": "Lotus Seed Paste & Salted Egg Yolk",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 221,
+        "name": "Mango Egg Tart",
+        "ingredient1": "Harry",
+        "ingredient2": "Flour",
+        "ingredient3": "Egg",
+        "ingredient4": "Sugar",
+        "effects": "Increase Damage To Animals & Combat Crit Chance & Mastery"
+    },
+    {
+        "no": 222,
+        "name": "Mango Honey Drink",
+        "ingredient1": "Harry",
+        "ingredient2": "Honey",
+        "ingredient3": "Honey",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Movement Speed & Stability & Cure Cold"
+    },
+    {
+        "no": 223,
+        "name": "Mango Jam",
+        "ingredient1": "Harry",
+        "ingredient2": "Harry",
+        "ingredient3": "Harry",
+        "ingredient4": "Harry",
+        "effects": "Increase Headshot Damage & Reload Speed"
+    },
+    {
+        "no": 224,
+        "name": "Mango Milk Custard",
+        "ingredient1": "Harry",
+        "ingredient2": "Harry",
+        "ingredient3": "Milk",
+        "ingredient4": "Milk",
+        "effects": "Increase Logging Speed & Hemp Mastery"
+    },
+    {
+        "no": 225,
+        "name": "Mango Milkshake",
+        "ingredient1": "Harry",
+        "ingredient2": "Milk",
+        "ingredient3": "Milk",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Mining Crit & Speed & Hemp Mastery"
+    },
+    {
+        "no": 226,
+        "name": "Mango Pancake",
+        "ingredient1": "Harry",
+        "ingredient2": "Flour",
+        "ingredient3": "Milk",
+        "ingredient4": "Egg",
+        "effects": "Increase Logging Crit & Speed & Hemp Mastery"
+    },
+    {
+        "no": 227,
+        "name": "Mango Pudding",
+        "ingredient1": "Harry",
+        "ingredient2": "Flour",
+        "ingredient3": "Milk",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Hemp Crit & Speed & Mastery"
+    },
+    {
+        "no": 228,
+        "name": "Mango Smoothie",
+        "ingredient1": "Harry",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Swimming Speed & Max Energy"
+    },
+    {
+        "no": 229,
+        "name": "Mantis Shrimp With Spiced Salt",
+        "ingredient1": "Mantis Shrimp",
+        "ingredient2": "Mantis Shrimp",
+        "ingredient3": "Seasoning",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Swimming Speed & Hemp Mastery & Running Energy"
+    },
+    {
+        "no": 230,
+        "name": "Maocai",
+        "ingredient1": "Fruit",
+        "ingredient2": "Fruit",
+        "ingredient3": "Mushroom",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Movement Speed & Logging Crit"
+    },
+    {
+        "no": 231,
+        "name": "Mapo Tofu",
+        "ingredient1": "Tofu",
+        "ingredient2": "Tofu",
+        "ingredient3": "Pepper",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Combat Crit Chance & Max Energy"
+    },
+    {
+        "no": 232,
+        "name": "Marinated Delights Platter",
+        "ingredient1": "Egg",
+        "ingredient2": "Egg",
+        "ingredient3": "Sauce",
+        "ingredient4": "Animal Entrails",
+        "effects": "Increase Damage To Animals & Crit Immunity & Reload Cost"
+    },
+    {
+        "no": 233,
+        "name": "Marmalade",
+        "ingredient1": "Sweet Orange",
+        "ingredient2": "Sweet Orange",
+        "ingredient3": "Sweet Orange",
+        "ingredient4": "Sweet Orange",
+        "effects": "Increase Damage To Humanoid & Firing Range"
+    },
+    {
+        "no": 234,
+        "name": "Mashed Potatoes",
+        "ingredient1": "Potato",
+        "ingredient2": "Potato",
+        "ingredient3": "Milk",
+        "ingredient4": "Milk",
+        "effects": "Increase Headshot Damage"
+    },
+    {
+        "no": 235,
+        "name": "Mashed Potatoes With Cheese",
+        "ingredient1": "?",
+        "ingredient2": "?",
+        "ingredient3": "?",
+        "ingredient4": "?",
+        "effects": "Increase Max Energy & Energy Rate"
+    },
+    {
+        "no": 236,
+        "name": "Meat Dumplings In Spicy Sauce",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Flour",
+        "ingredient4": "Pepper",
+        "effects": "Increase Combat Crit & Reload Speed"
+    },
+    {
+        "no": 237,
+        "name": "Meat Plate",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Vegetable",
+        "ingredient4": "Mushroom",
+        "effects": "HP Regeneration Over Time"
+    },
+    {
+        "no": 238,
+        "name": "Meat Rice Rolls",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Rice",
+        "ingredient4": "Sauce",
+        "effects": "HP Regeneration Over Time & Increase Firing Rate & Blizzard Resistance"
+    },
+    {
+        "no": 239,
+        "name": "Meat Skewer",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Fruit",
+        "ingredient4": "Fruit",
+        "effects": "Increase Damage To Animals"
+    },
+    {
+        "no": 240,
+        "name": "Meatballs",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Vegetable",
+        "ingredient4": "Vegetable",
+        "effects": "Increase Damage To Infected"
+    },
+    {
+        "no": 241,
+        "name": "Milk",
+        "ingredient1": "Milk",
+        "ingredient2": "Milk",
+        "ingredient3": "Milk",
+        "ingredient4": "Milk",
+        "effects": "Increase Body Temperature"
+    },
+    {
+        "no": 242,
+        "name": "Milk Cheese Paste",
+        "ingredient1": "Milk",
+        "ingredient2": "Milk",
+        "ingredient3": "Rice",
+        "ingredient4": "Rice",
+        "effects": "Increase Logging Crit & Thunderstorm Resistance"
+    },
+    {
+        "no": 243,
+        "name": "Milk Pudding",
+        "ingredient1": "Honey",
+        "ingredient2": "Milk",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Decrease Body Temperature"
+    },
+    {
+        "no": 244,
+        "name": "Milk Stew",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Meat",
+        "ingredient4": "Milk",
+        "effects": "Increase Damage To Infected"
+    },
+    {
+        "no": 245,
+        "name": "Milk Stewed With Meat And Egg",
+        "ingredient1": "Egg",
+        "ingredient2": "Egg",
+        "ingredient3": "Milk",
+        "ingredient4": "Pumpkin",
+        "effects": "HP Regeneration"
+    },
+    {
+        "no": 246,
+        "name": "Milky Apple Pancake",
+        "ingredient1": "Apple",
+        "ingredient2": "Apple",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Increase Damage To Animals & Stability"
+    },
+    {
+        "no": 247,
+        "name": "Milky Corn Pudding",
+        "ingredient1": "Milk",
+        "ingredient2": "Milk",
+        "ingredient3": "Corn",
+        "ingredient4": "Corn",
+        "effects": "Increase Movement Speed"
+    },
+    {
+        "no": 248,
+        "name": "Milky Croissant",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Flour",
+        "ingredient4": "Milk",
+        "effects": "Increase Logging Crit"
+    },
+    {
+        "no": 249,
+        "name": "Mince Pie",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Flour",
+        "ingredient4": "Flour",
+        "effects": "Increase Damage To Humanoid"
+    },
+    {
+        "no": 250,
+        "name": "Minced Pork Rice",
+        "ingredient1": "Meat",
+        "ingredient2": "Egg",
+        "ingredient3": "Rice",
+        "ingredient4": "Sauce",
+        "effects": "Increase Damage To Humanoid & Blizzard Resistance"
+    },
+    {
+        "no": 251,
+        "name": "Mixed Rice / Bibimbap",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Egg",
+        "ingredient4": "Vegetable",
+        "effects": "HP Regeneration Over Time & Combat Mastery & Hemp Mastery"
+    },
+    {
+        "no": 252,
+        "name": "Mung Bean & Ham",
+        "ingredient1": "Sticky Rice",
+        "ingredient2": "Sticky Rice",
+        "ingredient3": "Ham",
+        "ingredient4": "Mungbean",
+        "effects": "Increase Logging Crit"
+    },
+    {
+        "no": 253,
+        "name": "Mung Bean & Meat",
+        "ingredient1": "Sticky Rice",
+        "ingredient2": "Sticky Rice",
+        "ingredient3": "Mungbean",
+        "ingredient4": "Port Belly",
+        "effects": "Increase Hemp Speed"
+    },
+    {
+        "no": 254,
+        "name": "Mushroom Skewers",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Mushroom",
+        "ingredient4": "Mushroom",
+        "effects": "Increase Combat Crit Chance"
+    },
+    {
+        "no": 255,
+        "name": "Mushroom Soup",
+        "ingredient1": "Mushroom",
+        "ingredient2": "Mushroom",
+        "ingredient3": "Milk",
+        "ingredient4": "Milk",
+        "effects": "Increase Health"
+    },
+    {
+        "no": 256,
+        "name": "Mushroom Soup",
+        "ingredient1": "Vegetable",
+        "ingredient2": "Mushroom",
+        "ingredient3": "Matsutake Mushroom",
+        "ingredient4": "Cave Mushroom",
+        "effects": "Increase Body Temperature"
+    },
+    {
+        "no": 257,
+        "name": "Mushroom Udon Noodles",
+        "ingredient1": "Mushroom",
+        "ingredient2": "Mushroom",
+        "ingredient3": "Flour",
+        "ingredient4": "Flour",
+        "effects": "Increase Mining Crit"
+    },
+    {
+        "no": 258,
+        "name": "Nasi Goreng",
+        "ingredient1": "Rice",
+        "ingredient2": "Meat",
+        "ingredient3": "Egg",
+        "ingredient4": "Vegetable",
+        "effects": "Increase Firing Rate & Ammo Capacity"
+    },
+    {
+        "no": 259,
+        "name": "Nutritious Stew",
+        "ingredient1": "Meat",
+        "ingredient2": "Flour",
+        "ingredient3": "Flour",
+        "ingredient4": "Milk",
+        "effects": "Increase Damage To Animals"
+    },
+    {
+        "no": 260,
+        "name": "Oden",
+        "ingredient1": "Meat",
+        "ingredient2": "Mushroom",
+        "ingredient3": "Vegetable",
+        "ingredient4": "Tofu",
+        "effects": "Increase Damage To Infected & Running Energy"
+    },
+    {
+        "no": 261,
+        "name": "Omelet With Shredded Pork",
+        "ingredient1": "Cucumber",
+        "ingredient2": "Egg",
+        "ingredient3": "Mushroom",
+        "ingredient4": "Meat",
+        "effects": "Increase Combat Crit Chance & Headshot Damage"
+    },
+    {
+        "no": 262,
+        "name": "Omurice",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Egg",
+        "ingredient4": "Sauce",
+        "effects": "HP Regeneration Over Time & Crit Immunity & Firing Rate"
+    },
+    {
+        "no": 263,
+        "name": "Orange Chiffon Cake",
+        "ingredient1": "Sweet Orange",
+        "ingredient2": "Flour",
+        "ingredient3": "Egg",
+        "ingredient4": "Sugar",
+        "effects": "Increase Hemp Crit & Speed & Max Energy"
+    },
+    {
+        "no": 264,
+        "name": "Orange Cookies",
+        "ingredient1": "Sweet Orange",
+        "ingredient2": "Sweet Orange",
+        "ingredient3": "Flour",
+        "ingredient4": "Sugar",
+        "effects": "Increase Logging Crit & Speed & Max Energy"
+    },
+    {
+        "no": 265,
+        "name": "Orange Lollipop",
+        "ingredient1": "Sweet Orange",
+        "ingredient2": "Sweet Orange",
+        "ingredient3": "Sugar",
+        "ingredient4": "Sugar",
+        "effects": "Increase Movement Speed & Running Energy & Stability"
+    },
+    {
+        "no": 266,
+        "name": "Orange Milk Curd",
+        "ingredient1": "Sweet Orange",
+        "ingredient2": "Milk",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Movement Speed & Hemp Gathering Speed"
+    },
+    {
+        "no": 267,
+        "name": "Orange Steamed Egg",
+        "ingredient1": "Sweet Orange",
+        "ingredient2": "Egg",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Increase Damage To Infected & Headshot Damage & Firing Rate & Stability"
+    },
+    {
+        "no": 268,
+        "name": "Orange With Fried Crab Meat",
+        "ingredient1": "Sweet Orange",
+        "ingredient2": "Crab",
+        "ingredient3": "Sauce",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Swimming Speed & Running Energy & Cure Cold"
+    },
+    {
+        "no": 269,
+        "name": "Organic Cranberry Cookies",
+        "ingredient1": "Cranberry",
+        "ingredient2": "?",
+        "ingredient3": "?",
+        "ingredient4": "?",
+        "effects": "Increase Damage To Infected & Attack Speed & Combat Crit Chance & Max Energy"
+    },
+    {
+        "no": 270,
+        "name": "Pan-Fried Egg Fuyong",
+        "ingredient1": "Meat",
+        "ingredient2": "Mushroom",
+        "ingredient3": "Egg",
+        "ingredient4": "Vegetable",
+        "effects": "Increase Hemp Crit & Combat Mastery & Ammo Capacity"
+    },
+    {
+        "no": 271,
+        "name": "Pan-Fried Filefish",
+        "ingredient1": "Filefish",
+        "ingredient2": "Filefish",
+        "ingredient3": "Filefish",
+        "ingredient4": "Filefish",
+        "effects": "Increase Movement Speed & Hemp Crit & Speed"
+    },
+    {
+        "no": 272,
+        "name": "Pancake With Julienne Potatoes",
+        "ingredient1": "Potato",
+        "ingredient2": "Cooking Oil",
+        "ingredient3": "Sauce",
+        "ingredient4": "Flour",
+        "effects": "Increase Energy Rate & Mining Crit"
+    },
+    {
+        "no": 273,
+        "name": "Peanut Dumplings",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Peanut",
+        "ingredient4": "Peanut",
+        "effects": "Increase Mining Speed & Crit & Body Temperature"
+    },
+    {
+        "no": 274,
+        "name": "Pepper Sauce",
+        "ingredient1": "Pepper",
+        "ingredient2": "Pepper",
+        "ingredient3": "Pepper",
+        "ingredient4": "Pepper",
+        "effects": "Increase Body Temperature"
+    },
+    {
+        "no": 275,
+        "name": "Pickled Cucumbers",
+        "ingredient1": "Cucumber",
+        "ingredient2": "Cucumber",
+        "ingredient3": "Sauce",
+        "ingredient4": "Pepper",
+        "effects": "Increase Hemp Crit & Speed"
+    },
+    {
+        "no": 276,
+        "name": "Pickled Pepper And Bamboo Shoots",
+        "ingredient1": "Bamboo Shoot",
+        "ingredient2": "Pepper",
+        "ingredient3": "Sauce",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Headshot Damage & Firing Range"
+    },
+    {
+        "no": 277,
+        "name": "Pineapple Cake",
+        "ingredient1": "Pineapple",
+        "ingredient2": "Pineapple",
+        "ingredient3": "Egg",
+        "ingredient4": "Sugar",
+        "effects": "HP Regeneration Over Time & Increase Damage To Humanoid"
+    },
+    {
+        "no": 278,
+        "name": "Pineapple Mixed Rice",
+        "ingredient1": "Pineapple",
+        "ingredient2": "Rice",
+        "ingredient3": "Rice",
+        "ingredient4": "Vegetable",
+        "effects": "Increase HP Cap & Mining Speed & Crit"
+    },
+    {
+        "no": 279,
+        "name": "Pineapple Oil",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Honey",
+        "ingredient4": "Honey",
+        "effects": "Increase Energy Rate & Mining Speed"
+    },
+    {
+        "no": 280,
+        "name": "Plain-Fried Bamboo Shoots",
+        "ingredient1": "Bamboo Shoot",
+        "ingredient2": "Pepper",
+        "ingredient3": "Cooking Oil",
+        "ingredient4": "Sugar",
+        "effects": "Increase Logging Speed & Hemp Mastery"
+    },
+    {
+        "no": 281,
+        "name": "Pork Chop Bun",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Sauce",
+        "ingredient4": "Flour",
+        "effects": "Increase Headshot Damage"
+    },
+    {
+        "no": 282,
+        "name": "Pork Mince & Salted Egg",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Egg",
+        "ingredient4": "Rice",
+        "effects": "Increase Damage To Humanoid & Reload Cost & Blizzard Resistance"
+    },
+    {
+        "no": 283,
+        "name": "Pot Side Soup",
+        "ingredient1": "Meat",
+        "ingredient2": "Rice",
+        "ingredient3": "Vegetable",
+        "ingredient4": "Mushroom",
+        "effects": "Increase Logging Speed & Mining Speed & Hemp Speed"
+    },
+    {
+        "no": 284,
+        "name": "Potato Pancakes",
+        "ingredient1": "Potato",
+        "ingredient2": "Flour",
+        "ingredient3": "Seasoning",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Logging Crit & Blizzard Resistance"
+    },
+    {
+        "no": 285,
+        "name": "Pumpkin Clown Pie",
+        "ingredient1": "Clownfish",
+        "ingredient2": "Pumpkin",
+        "ingredient3": "Flour",
+        "ingredient4": "Flour",
+        "effects": "Increase Mining Speed & Crit & Hemp Mastery"
+    },
+    {
+        "no": 286,
+        "name": "Pumpkin Rice",
+        "ingredient1": "Pumpkin",
+        "ingredient2": "Pumpkin",
+        "ingredient3": "Rice",
+        "ingredient4": "Rice",
+        "effects": "Increase Logging Crit & Swamp Resistance"
+    },
+    {
+        "no": 287,
+        "name": "Pure Coconut Juice",
+        "ingredient1": "Coconut",
+        "ingredient2": "Coconut",
+        "ingredient3": "Coconut",
+        "ingredient4": "Coconut",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 288,
+        "name": "Pure Mulberry Jam",
+        "ingredient1": "Mulberry",
+        "ingredient2": "Mulberry",
+        "ingredient3": "Mulberry",
+        "ingredient4": "Mulberry",
+        "effects": "Increase Damage To Infected & Attack Speed & Combat Crit Chance & Max Energy"
+    },
+    {
+        "no": 289,
+        "name": "Radish And Mushroom Soup",
+        "ingredient1": "White Radish",
+        "ingredient2": "Mushroom",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Hemp Crit & Speed & Blizzard Resistance"
+    },
+    {
+        "no": 290,
+        "name": "Radish Cake",
+        "ingredient1": "White Radish",
+        "ingredient2": "Flour",
+        "ingredient3": "Flour",
+        "ingredient4": "Sugar",
+        "effects": "Increase Damage To Infected & Combat Mastery"
+    },
+    {
+        "no": 291,
+        "name": "Radish Strips Cake",
+        "ingredient1": "White Radish",
+        "ingredient2": "Flour",
+        "ingredient3": "Egg",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Damage To Humanoid & Firing Rate & Reload Cost"
+    },
+    {
+        "no": 292,
+        "name": "Rainbow Dumplings",
+        "ingredient1": "Flour",
+        "ingredient2": "Red Beans",
+        "ingredient3": "Sesame",
+        "ingredient4": "Peanut",
+        "effects": "HP Regeneration Over Time"
+    },
+    {
+        "no": 293,
+        "name": "Red Bean Dumplings",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Red Beans",
+        "ingredient4": "Red Beans",
+        "effects": "Increase Logging Speed & Crit & Body Temperature"
+    },
+    {
+        "no": 294,
+        "name": "Red Braised Pork And Bamboo Shoots",
+        "ingredient1": "Bamboo Shoot",
+        "ingredient2": "Meat",
+        "ingredient3": "Cooking Oil",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Movement Speed & Mining Crit"
+    },
+    {
+        "no": 295,
+        "name": "Rice Cake With Milk",
+        "ingredient1": "Milk",
+        "ingredient2": "Milk",
+        "ingredient3": "Rice",
+        "ingredient4": "Seasoning",
+        "effects": "HP Regeneration Over Time & Increase Mining Crit"
+    },
+    {
+        "no": 296,
+        "name": "Rice Cracker",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Sauce",
+        "ingredient4": "Seasoning",
+        "effects": "HP Regeneration Over Time & Increase Movement Speed & Swamp Resistance"
+    },
+    {
+        "no": 297,
+        "name": "Rice Meatballs",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Rice",
+        "ingredient4": "Seasoning",
+        "effects": "Increase Damage To Animals & Running Energy & Sandstorm Resistance"
+    },
+    {
+        "no": 298,
+        "name": "Rice With Beef & Potatoes",
+        "ingredient1": "Potato",
+        "ingredient2": "Meat",
+        "ingredient3": "Rice",
+        "ingredient4": "Egg",
+        "effects": "Increase Max Energy & Hemp Crit"
+    },
+    {
+        "no": 299,
+        "name": "Rice With Mushroom And Meat",
+        "ingredient1": "Potato",
+        "ingredient2": "Matsutake Mushroom",
+        "ingredient3": "Rice",
+        "ingredient4": "Meat",
+        "effects": "Increase Hemp Speed & Thunderstorm Resistance"
+    },
+    {
+        "no": 300,
+        "name": "Rice With Potatoes & Bacon",
+        "ingredient1": "Potato",
+        "ingredient2": "Rice",
+        "ingredient3": "Meat",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "HP Regeneration Over Time & Increase Combat Crit Chance & Damage To Infected & Combat Mastery"
+    },
+    {
+        "no": 301,
+        "name": "Rice-Water With Longans",
+        "ingredient1": "Longan Fruit",
+        "ingredient2": "Longan Fruit",
+        "ingredient3": "Longan Fruit",
+        "ingredient4": "Longan Fruit",
+        "effects": "Increase All Damage & Combat Crit Chance"
+    },
+    {
+        "no": 302,
+        "name": "Roasted Cantaloupe Slices",
+        "ingredient1": "Honeydew Melon",
+        "ingredient2": "Seasoning",
+        "ingredient3": "Seasoning",
+        "ingredient4": "Seasoning",
+        "effects": "Increase Headshot Damage & Reload Speed"
+    },
+    {
+        "no": 303,
+        "name": "Roasted Crispy Pork",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Seasoning",
+        "ingredient4": "Seasoning",
+        "effects": "Improve Movement Speed & Headshot Damage"
+    },
+    {
+        "no": 304,
+        "name": "Rose-Shaped Apple Crisp",
+        "ingredient1": "Apple",
+        "ingredient2": "Apple",
+        "ingredient3": "Flour",
+        "ingredient4": "Egg",
+        "effects": "Increase Damage To Infected & Combat Crit Chance & Ammo Capacity & Stability"
+    },
+    {
+        "no": 305,
+        "name": "Safe And Lucky Bamboo",
+        "ingredient1": "Cucumber",
+        "ingredient2": "Carrot",
+        "ingredient3": "Corn",
+        "ingredient4": "Sugar",
+        "effects": "Increase Max Energy & Logging Crit & Speed & Decrease Body Temperature"
+    },
+    {
+        "no": 306,
+        "name": "Salted Pork With Bamboo Shoots",
+        "ingredient1": "Bamboo Shoot",
+        "ingredient2": "Bamboo Shoot",
+        "ingredient3": "Meat",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Max Energy & Logging Crit & Speed & Thunderstorm Resistance"
+    },
+    {
+        "no": 307,
+        "name": "Sandwich",
+        "ingredient1": "Meat",
+        "ingredient2": "Fruit",
+        "ingredient3": "Fruit",
+        "ingredient4": "Flour",
+        "effects": "Increase Damage To Infected"
+    },
+    {
+        "no": 308,
+        "name": "Satay",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Meat",
+        "ingredient4": "Sauce",
+        "effects": "Increase Reload Speed"
+    },
+    {
+        "no": 309,
+        "name": "Sautéed Bamboo Shoots And Meat",
+        "ingredient1": "Bamboo Shoot",
+        "ingredient2": "Meat",
+        "ingredient3": "Pepper",
+        "ingredient4": "Cooking Oil",
+        "effects": "Increase Combat Crit Chance & Damage To Infected & Combat Crit Immunity"
+    },
+    {
+        "no": 310,
+        "name": "Sautéed Crab With Curry",
+        "ingredient1": "Swimming Crab",
+        "ingredient2": "Swimming Crab",
+        "ingredient3": "Sauce",
+        "ingredient4": "Cooking Oil",
+        "effects": "Increase Logging Crit & Mining Crit & Hemp Crit"
+    },
+    {
+        "no": 311,
+        "name": "Scrambled Eggs With Cucumber",
+        "ingredient1": "Cucumber",
+        "ingredient2": "Cucumber",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Increase Swimming Speed & Mining Crit"
+    },
+    {
+        "no": 312,
+        "name": "Seafood Congee",
+        "ingredient1": "Fish",
+        "ingredient2": "Shrimp",
+        "ingredient3": "River Crab",
+        "ingredient4": "Rice",
+        "effects": "Increase Logging Crit & Swamp Resistance"
+    },
+    {
+        "no": 313,
+        "name": "Seafood Pasta",
+        "ingredient1": "Lemon",
+        "ingredient2": "Shrimp",
+        "ingredient3": "Flour",
+        "ingredient4": "Flour",
+        "effects": "Increase Logging Crit & Blizzard Resistance"
+    },
+    {
+        "no": 314,
+        "name": "Sesame & Red Bean",
+        "ingredient1": "Special Flour",
+        "ingredient2": "Special Flour",
+        "ingredient3": "Black Sesame",
+        "ingredient4": "Red Beans",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 315,
+        "name": "Sesame Dumplings",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Sesame",
+        "ingredient4": "Sesame",
+        "effects": "Increase Hemp Speed & Crit & Body Temperature"
+    },
+    {
+        "no": 316,
+        "name": "Sesame Paste",
+        "ingredient1": "Sesame",
+        "ingredient2": "Sesame",
+        "ingredient3": "Rice",
+        "ingredient4": "Rice",
+        "effects": "Increase Hemp Speed & Crit"
+    },
+    {
+        "no": 317,
+        "name": "Sharpbelly Sashimi",
+        "ingredient1": "Sharpbelly",
+        "ingredient2": "Sharpbelly",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Hemp Speed & Mastery"
+    },
+    {
+        "no": 318,
+        "name": "Shiitake & Ham",
+        "ingredient1": "Sticky Rice",
+        "ingredient2": "Sticky Rice",
+        "ingredient3": "Ham",
+        "ingredient4": "Shiitake Mushroom",
+        "effects": "Increase Logging Speed"
+    },
+    {
+        "no": 319,
+        "name": "Shiitake & Shrimp",
+        "ingredient1": "Sticky Rice",
+        "ingredient2": "Sticky Rice",
+        "ingredient3": "Shiitake Mushroom",
+        "ingredient4": "Shrimp",
+        "effects": "Increase Mining Speed"
+    },
+    {
+        "no": 320,
+        "name": "Shredded Chicken Salad",
+        "ingredient1": "?",
+        "ingredient2": "?",
+        "ingredient3": "?",
+        "ingredient4": "?",
+        "effects": "Increase Mining Speed & Crit & Hemp Mastery"
+    },
+    {
+        "no": 321,
+        "name": "Shredded Pork Knuckle in Jelly",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Sauce",
+        "ingredient4": "Cooking Oil",
+        "effects": "Increase Damage To Infected & Crit Immunity & Firing Rate"
+    },
+    {
+        "no": 322,
+        "name": "Shredded Radish With Meat And Rice",
+        "ingredient1": "White Radish",
+        "ingredient2": "Meat",
+        "ingredient3": "Rice",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "HP Regeneration Over Time & Increase Energy Rate"
+    },
+    {
+        "no": 323,
+        "name": "Shrimp And Corn Pizza",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Shrimp",
+        "ingredient4": "Corn",
+        "effects": "Increase Combat Crit Chance"
+    },
+    {
+        "no": 324,
+        "name": "Shrimp Curry Fried Rice",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Shrimp",
+        "ingredient4": "Seasoning",
+        "effects": "Increase Energy Rate & Crit Immunity & Mining Speed"
+    },
+    {
+        "no": 325,
+        "name": "Shrimp Rice Rolls",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Shrimp",
+        "ingredient4": "Sauce",
+        "effects": "Increase Crit Immunity & Mining Speed & Sandstorm Resistance"
+    },
+    {
+        "no": 326,
+        "name": "Shrimp Roe Noodles",
+        "ingredient1": "Flour",
+        "ingredient2": "Shrimp",
+        "ingredient3": "Pepper",
+        "ingredient4": "Sauce",
+        "effects": "Increase Mining Speed & Crit"
+    },
+    {
+        "no": 327,
+        "name": "Shrimp Stuffed Fish Maw",
+        "ingredient1": "Fish",
+        "ingredient2": "Fish",
+        "ingredient3": "Vegetable",
+        "ingredient4": "Cooking Oil",
+        "effects": "Increase Movement Speed & Hemp Crit & Speed & Damage To Animals"
+    },
+    {
+        "no": 328,
+        "name": "Shrimp Wonton",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Shrimp",
+        "ingredient4": "Sauce",
+        "effects": "Increase Mining Speed & Crit & Sandstorm Resistance"
+    },
+    {
+        "no": 329,
+        "name": "Sliced Pork With Cucumber",
+        "ingredient1": "Cucumber",
+        "ingredient2": "Meat",
+        "ingredient3": "Meat",
+        "ingredient4": "Sauce",
+        "effects": "Increase Max Energ & Hemp Crit & Speed & Decrease Body Temperature"
+    },
+    {
+        "no": 330,
+        "name": "Snow Skin Mooncake",
+        "ingredient1": "Special Flour",
+        "ingredient2": "Special Flour",
+        "ingredient3": "Sweet Rice Flour",
+        "ingredient4": "Coconut",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 331,
+        "name": "Sour And Spicy Radish",
+        "ingredient1": "White Radish",
+        "ingredient2": "White Radish",
+        "ingredient3": "Pepper",
+        "ingredient4": "Sauce",
+        "effects": "Increase Logging Crit & Speed & Blizzard Resistance"
+    },
+    {
+        "no": 332,
+        "name": "Sour Lime Shrimp",
+        "ingredient1": "Lemon",
+        "ingredient2": "Shrimp",
+        "ingredient3": "Leek, Ginger & Garlic",
+        "ingredient4": "Pepper",
+        "effects": "Increase Mining Crit & Speed"
+    },
+    {
+        "no": 333,
+        "name": "Spaghetti",
+        "ingredient1": "Meat",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Fruit",
+        "ingredient4": "Flour",
+        "effects": "Increase Combat Crit Chance"
+    },
+    {
+        "no": 334,
+        "name": "Spareribs And Kelp Soup",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Vegetable",
+        "ingredient4": "Seasoning",
+        "effects": "Increase Crit Immunity"
+    },
+    {
+        "no": 335,
+        "name": "Special Pizza",
+        "ingredient1": "Meat",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Mushroom",
+        "ingredient4": "Flour",
+        "effects": "Increase Damage To Building"
+    },
+    {
+        "no": 336,
+        "name": "Spicy Diced Meat",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Pepper",
+        "ingredient4": "Pepper",
+        "effects": "Increase Damage To Building"
+    },
+    {
+        "no": 337,
+        "name": "Spicy Fried Potato Wedges",
+        "ingredient1": "Potato",
+        "ingredient2": "Potato",
+        "ingredient3": "Pepper",
+        "ingredient4": "Cooking Oil",
+        "effects": "Increase Combat Mastery & Reload Speed"
+    },
+    {
+        "no": 338,
+        "name": "Spicy Rice Noodles",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Pepper",
+        "ingredient4": "Pepper",
+        "effects": "Increase Combat Crit Chance & Swamp Resistance"
+    },
+    {
+        "no": 339,
+        "name": "Spicy Squid Tentacle",
+        "ingredient1": "Pepper",
+        "ingredient2": "Pepper",
+        "ingredient3": "Squid",
+        "ingredient4": "Squid",
+        "effects": "Increase Swimming Speed"
+    },
+    {
+        "no": 340,
+        "name": "Spicy Swimming Crab",
+        "ingredient1": "Swimming Crab",
+        "ingredient2": "Swimming Crab",
+        "ingredient3": "Pepper",
+        "ingredient4": "Pepper",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 341,
+        "name": "Steamed Anchovies",
+        "ingredient1": "Anchovy",
+        "ingredient2": "Anchovy",
+        "ingredient3": "Anchovy",
+        "ingredient4": "Anchovy",
+        "effects": "HP Regeneration"
+    },
+    {
+        "no": 342,
+        "name": "Steamed Cod",
+        "ingredient1": "Cod",
+        "ingredient2": "Cod",
+        "ingredient3": "Cod",
+        "ingredient4": "Cod",
+        "effects": "Increase Logging Crit & Mining Crit & Hemp Crit & Swamp Resistance"
+    },
+    {
+        "no": 343,
+        "name": "Steamed Crab",
+        "ingredient1": "River Crab",
+        "ingredient2": "Fruit",
+        "ingredient3": "Fruit",
+        "ingredient4": "Fruit",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 344,
+        "name": "Steamed Dungeness Crab",
+        "ingredient1": "Dungeness Crab",
+        "ingredient2": "Dungeness Crab",
+        "ingredient3": "Dungeness Crab",
+        "ingredient4": "Dungeness Crab",
+        "effects": "Increase Logging Speed & Mining Speed & Hemp Speed & Blizzard Resistance"
+    },
+    {
+        "no": 345,
+        "name": "Steamed Fish Head With Peppers",
+        "ingredient1": "Bighead Carp",
+        "ingredient2": "Bighead Carp",
+        "ingredient3": "Pepper",
+        "ingredient4": "Pepper",
+        "effects": "Increase All Damage"
+    },
+    {
+        "no": 346,
+        "name": "Steamed Fish With Lime",
+        "ingredient1": "Lemon",
+        "ingredient2": "Lemon",
+        "ingredient3": "Fish",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Mining Speed & Hemp Mastery"
+    },
+    {
+        "no": 347,
+        "name": "Steamed Hilsa Herring",
+        "ingredient1": "Hilsa Herring",
+        "ingredient2": "Hilsa Herring",
+        "ingredient3": "Hilsa Herring",
+        "ingredient4": "Hilsa Herring",
+        "effects": "Increase Movement Speed & Logging Speed & Crit"
+    },
+    {
+        "no": 348,
+        "name": "Steamed Plaice",
+        "ingredient1": "Plaice",
+        "ingredient2": "Plaice",
+        "ingredient3": "Plaice",
+        "ingredient4": "Plaice",
+        "effects": "Increase Logging Speed & Mining Speed & Hemp Speed & Sandstorm Resistance"
+    },
+    {
+        "no": 349,
+        "name": "Steamed Pork With Rice Flour",
+        "ingredient1": "Meat",
+        "ingredient2": "Rice",
+        "ingredient3": "Sauce",
+        "ingredient4": "Sauce",
+        "effects": "Increase HP Cap & Attack Speed & Swamp Resistance"
+    },
+    {
+        "no": 350,
+        "name": "Steamed Shrimp",
+        "ingredient1": "Shrimp",
+        "ingredient2": "Fruit",
+        "ingredient3": "Fruit",
+        "ingredient4": "Fruit",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 351,
+        "name": "Steamed Shrimp With Lemon",
+        "ingredient1": "Lemon",
+        "ingredient2": "Lemon",
+        "ingredient3": "Shrimp",
+        "ingredient4": "Shrimp",
+        "effects": "Increase Logging Crit & Hemp Mastery"
+    },
+    {
+        "no": 352,
+        "name": "Steamed Vegetable",
+        "ingredient1": "Vegetable",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Vegetable",
+        "ingredient4": "Vegetable",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 353,
+        "name": "Stewed Chinese Perch",
+        "ingredient1": "Chinese Perch",
+        "ingredient2": "Chinese Perch",
+        "ingredient3": "Chinese Perch",
+        "ingredient4": "Chinese Perch",
+        "effects": "Increase Logging Speed & Mining Speed & Hemp Speed & Thunderstorm Resistance"
+    },
+    {
+        "no": 354,
+        "name": "Stewed Fish Soup",
+        "ingredient1": "Fish",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Body Temperature & Cure Cold"
+    },
+    {
+        "no": 355,
+        "name": "Stewed Minced Pork & Mushroom",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Rice",
+        "ingredient4": "Mushroom",
+        "effects": "Increase Crit Immunity & Hemp Crit & Combat Crit Chance"
+    },
+    {
+        "no": 356,
+        "name": "Stewed Spring Bamboo Shoots",
+        "ingredient1": "Bamboo Shoot",
+        "ingredient2": "Pepper",
+        "ingredient3": "Cooking Oil",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "HP Regeneration Over Time & Ammo Capacity"
+    },
+    {
+        "no": 357,
+        "name": "Sticky Rice Balls",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Honey",
+        "ingredient4": "Sesame",
+        "effects": "Increase Hemp Crit & Speed & Blizzard Resistance"
+    },
+    {
+        "no": 358,
+        "name": "Stir-Fried Beef With Radish",
+        "ingredient1": "White Radish",
+        "ingredient2": "Meat",
+        "ingredient3": "Sauce",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Damage To Animals & Combat Crit Immunity"
+    },
+    {
+        "no": 359,
+        "name": "Strawberry Jelly",
+        "ingredient1": "Milk",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "Strawberry",
+        "ingredient4": "Strawberry",
+        "effects": "Increase Movement Speed & Combat Crit Chance"
+    },
+    {
+        "no": 360,
+        "name": "Strawberry Lemon Drink",
+        "ingredient1": "Lemon",
+        "ingredient2": "Strawberry",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Movement Speed & Swamp Resistance"
+    },
+    {
+        "no": 361,
+        "name": "Strawberry Muffin",
+        "ingredient1": "Flour",
+        "ingredient2": "Strawberry",
+        "ingredient3": "Strawberry",
+        "ingredient4": "Strawberry",
+        "effects": "HP Regeneration"
+    },
+    {
+        "no": 362,
+        "name": "Strawberry Rice Rolls",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Strawberry",
+        "ingredient4": "Strawberry",
+        "effects": "Increase Hemp Crit & Blizzard Resistance"
+    },
+    {
+        "no": 363,
+        "name": "Strawberry Yogurt Ice",
+        "ingredient1": "Honey",
+        "ingredient2": "Milk",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Strawberry",
+        "effects": "Increase Movement Speed"
+    },
+    {
+        "no": 364,
+        "name": "Supreme Meat",
+        "ingredient1": "Sticky Rice",
+        "ingredient2": "Ham",
+        "ingredient3": "Pork Belly",
+        "ingredient4": "Shrimp",
+        "effects": "Increase Combat Crit Chance"
+    },
+    {
+        "no": 365,
+        "name": "Supreme Sweet",
+        "ingredient1": "Mungbean",
+        "ingredient2": "Chestnut",
+        "ingredient3": "Sticky Rice",
+        "ingredient4": "Shiitake Mushroom",
+        "effects": "HP Regeneration Over Time"
+    },
+    {
+        "no": 366,
+        "name": "Sushi",
+        "ingredient1": "Fish",
+        "ingredient2": "Fish",
+        "ingredient3": "Vegetable",
+        "ingredient4": "Rice",
+        "effects": "Increase Mining Crit & Blizzard Resistance"
+    },
+    {
+        "no": 367,
+        "name": "Sweet & Sour Pork",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Sugar",
+        "ingredient4": "Pineapple",
+        "effects": "Increase Movement Speed & Headshot Damage & Max Energy"
+    },
+    {
+        "no": 368,
+        "name": "Sweet And Spicy Meatballs",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Honey",
+        "ingredient4": "Pepper",
+        "effects": "Increase Damage To Infected & Combat Mastery"
+    },
+    {
+        "no": 369,
+        "name": "Sweet Fried Julienne Potatoes",
+        "ingredient1": "Potato",
+        "ingredient2": "Potato",
+        "ingredient3": "Sugar",
+        "ingredient4": "Cooking Oil",
+        "effects": "Increase Combat Mastery & Reload Speed"
+    },
+    {
+        "no": 370,
+        "name": "Sweet Orange Juice",
+        "ingredient1": "Sweet Orange",
+        "ingredient2": "Sweet Orange",
+        "ingredient3": "Sweet Orange",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Mining Crit & Speed & Max Energy"
+    },
+    {
+        "no": 371,
+        "name": "Tamagoyaki",
+        "ingredient1": "Fish",
+        "ingredient2": "Fish",
+        "ingredient3": "Milk",
+        "ingredient4": "Milk",
+        "effects": "Increase Headshot Damage & Firing Rate"
+    },
+    {
+        "no": 372,
+        "name": "Tempura",
+        "ingredient1": "Fish",
+        "ingredient2": "Flour",
+        "ingredient3": "Egg",
+        "ingredient4": "Cooking Oil",
+        "effects": "Increase Hemp Crit & Speed"
+    },
+    {
+        "no": 373,
+        "name": "Thai Rice Noodles",
+        "ingredient1": "Rice",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Shrimp",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Mining Crit & Hemp Mastery"
+    },
+    {
+        "no": 374,
+        "name": "Toast",
+        "ingredient1": "Flour",
+        "ingredient2": "Flour",
+        "ingredient3": "Flour",
+        "ingredient4": "Flour",
+        "effects": "Allay Hunger"
+    },
+    {
+        "no": 375,
+        "name": "Toasted Rice Slices",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Vegetable",
+        "ingredient4": "Salmon",
+        "effects": "HP Regeneration Over Time & Increase Hemp Mastery & Speed"
+    },
+    {
+        "no": 376,
+        "name": "Toffee",
+        "ingredient1": "Honey",
+        "ingredient2": "Honey",
+        "ingredient3": "Milk",
+        "ingredient4": "Milk",
+        "effects": "Increase Movement Speed"
+    },
+    {
+        "no": 377,
+        "name": "Tom Yum Soup",
+        "ingredient1": "Mushroom",
+        "ingredient2": "Mushroom",
+        "ingredient3": "Shrimp",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Combat Crit & Sandstorm Resistence"
+    },
+    {
+        "no": 378,
+        "name": "Tri-Color Shrimp",
+        "ingredient1": "Cucumber",
+        "ingredient2": "Carrot",
+        "ingredient3": "Shrimp",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Max Energy & Damage To Infected"
+    },
+    {
+        "no": 379,
+        "name": "Tuna Sashimi",
+        "ingredient1": "Tuna",
+        "ingredient2": "Tuna",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Ice Cube",
+        "effects": "Increase Movement Speed & Hemp Speed & Crit"
+    },
+    {
+        "no": 380,
+        "name": "Twice-Cooked Pork",
+        "ingredient1": "Meat",
+        "ingredient2": "Meat",
+        "ingredient3": "Sauce",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "HP Regeneration Over Time & Ammo Capacity"
+    },
+    {
+        "no": 381,
+        "name": "Ultimate Seaberry Cake",
+        "ingredient1": "Sea Buckthorn",
+        "ingredient2": "Sea Buckthorn",
+        "ingredient3": "Sea Buckthorn",
+        "ingredient4": "Sea Buckthorn",
+        "effects": "Increase Damage To Infected & Attack Speed & Combat Crit Chance & Max Energy"
+    },
+    {
+        "no": 382,
+        "name": "Vegetable And Fish Ball Soup",
+        "ingredient1": "Fish",
+        "ingredient2": "Fish",
+        "ingredient3": "Vegetable",
+        "ingredient4": "Vegetable",
+        "effects": "Increase Max Energy"
+    },
+    {
+        "no": 383,
+        "name": "Vegetable Cake",
+        "ingredient1": "Vegetable",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Flour",
+        "ingredient4": "Flour",
+        "effects": "Increase Logging Crit"
+    },
+    {
+        "no": 384,
+        "name": "Vegetable Quiche",
+        "ingredient1": "Vegetable",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Egg",
+        "ingredient4": "Egg",
+        "effects": "Increase Damage To Infected"
+    },
+    {
+        "no": 385,
+        "name": "Vegetable Sushi",
+        "ingredient1": "Vegetable",
+        "ingredient2": "Vegetable",
+        "ingredient3": "Vegetable",
+        "ingredient4": "Rice",
+        "effects": "Increase Energy Rate & Attack Speed"
+    },
+    {
+        "no": 386,
+        "name": "Vermicelli With Pork",
+        "ingredient1": "Vermicelli",
+        "ingredient2": "Vermicelli",
+        "ingredient3": "Meat",
+        "ingredient4": "Pepper",
+        "effects": "Increase Combat Mastery & Firing Rate & Sandstorm Resistance"
+    },
+    {
+        "no": 387,
+        "name": "Watermelon & Lemon Soda",
+        "ingredient1": "Lemon",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Watermelon",
+        "effects": "Increase Movement Speed & Thunderstorm Resistance"
+    },
+    {
+        "no": 388,
+        "name": "White Radish Soup",
+        "ingredient1": "White Radish",
+        "ingredient2": "White Radish",
+        "ingredient3": "Seasoning",
+        "ingredient4": "Leek, Ginger & Garlic",
+        "effects": "Increase Combat Crit Chance & Damage To Infected & Blizzard Resistance"
+    },
+    {
+        "no": 389,
+        "name": "White Rice",
+        "ingredient1": "Rice",
+        "ingredient2": "Rice",
+        "ingredient3": "Rice",
+        "ingredient4": "Rice",
+        "effects": "Increase HP Cap"
+    }
+]
