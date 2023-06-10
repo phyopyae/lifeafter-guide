@@ -3499,5 +3499,95 @@
         "ingredient3": "Rice",
         "ingredient4": "Rice",
         "effects": "Increase HP Cap"
+    },
+    {
+        "no": 390,
+        "name": "Hot Tea",
+        "ingredient1": "Tea Leaves",
+        "ingredient2": "Tea Leaves",
+        "ingredient3": "Tea Leaves",
+        "ingredient4": "Ice Cube",
+        "effects": "Reduce Parasitic Vitality Cost & Max Parasitic Vitality & Symbiosis Recovery Percentage"
+    },
+    {
+        "no": 391,
+        "name": "Fruit Tea",
+        "ingredient1": "Tea Leaves",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "Fruit",
+        "ingredient4": "Fruit",
+        "effects": "Improve Movement Speed & Reduced Energy consumed when sprinting"
+    },
+    {
+        "no": 392,
+        "name": "Bubble Tea (Raphael?)",
+        "ingredient1": "Tea Leaves",
+        "ingredient2": "Ice Cube",
+        "ingredient3": "Milk",
+        "ingredient4": "Milk",
+        "effects": "Increase Combat Crit Chance & Damage To Infected & Damage to Humanoid"
+    },
+    {
+        "no": 393,
+        "name": "Metcha Pudding",
+        "ingredient1": "Tea Leaves",
+        "ingredient2": "Milk",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Flour",
+        "effects": "Increase Logging Speed & Mining Speed & Hemp Speed"
+    },
+    {
+        "no": 394,
+        "name": "Tea Jelly Milk Curd",
+        "ingredient1": "Tea Leaves",
+        "ingredient2": "Milk",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Fruit",
+        "effects": "Increase Damage to Infected & Damage to Humanoid & Reduces Parasitic Vitality Cost & Have Parassitic Damage Coefficient"
+    },
+    {
+        "no": 395,
+        "name": "Metcha Cake",
+        "ingredient1": "Tea Leaves",
+        "ingredient2": "Milk",
+        "ingredient3": "Flour",
+        "ingredient4": "Sugar",
+        "effects": "Increase Logging Crit & Mining Crit & Hemp Crit"
+    },
+    {
+        "no": 396,
+        "name": "Tea Rice",
+        "ingredient1": "Tea Leaves",
+        "ingredient2": "Tea Leaves",
+        "ingredient3": "Ice Cube",
+        "ingredient4": "Rice",
+        "effects": "Increase Firing Rate & Spore Recovery Convert Rate & Have Parasitic Damage Coefficient"
+    },
+    {
+        "no": 397,
+        "name": "Tea-Boiled Eggs",
+        "ingredient1": "Tea Leaves",
+        "ingredient2": "Tea Leaves",
+        "ingredient3": "Tea Leaves",
+        "ingredient4": "Egg",
+        "effects": "Improve Movement Speed & Spore Fission Index & Symbiosis Recovery Percentage"
+    },
+    {
+        "no": 398,
+        "name": "Tea Barbecued Meat",
+        "ingredient1": "Tea Leaves",
+        "ingredient2": "Meat",
+        "ingredient3": "Meat",
+        "ingredient4": "Meat",
+        "effects": "HP Regeneration Over Time & Spore Fission Index & Spore Recovery Covert Rate"
+    },
+    {
+        "no": 399,
+        "name": "Fried Eggs with Tea Leaves",
+        "ingredient1": "Tea Leaves",
+        "ingredient2": "Tea Leaves",
+        "ingredient3": "Egg",
+        "ingredient4": "Cooking Oil",
+        "effects": "Increase Combat Crit Chance & Max Parasitic Vitality"
     }
 ]
